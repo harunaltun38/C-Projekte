@@ -1,0 +1,5183 @@
+Straelen	02834
+Hessisch Lichtenau	05602
+Kerpen-Horrem	02273
+Laichingen	07333
+Steinhagen Westf.	05204
+Roehrmoos	08139
+Schwaebisch Gmuend	07171
+Untergriesbach	08593
+Hohenberg-Krusemark	039394
+Ringenwalde	039881
+Luebben	03546
+Neustadt(Sachs.)	03596
+Altdorf b.Nuernberg	09187
+Bindlach	09208
+Muenchsteinach	09166
+Baltrum	04939
+Wuestenrot	07945
+Oberndorf	036465
+Metschow	039994
+Bergen	03838
+Winnenden	07195
+Suederhastedt	04830
+Langen b.Bremerhaven	04743
+Walsrode-Kirchboitzen	05166
+Winsen-Toennhausen	04179
+Eching Niederbay.	08709
+Bruchhausen-Vilsen	04252
+Luebeck	0451
+Schmoelln	039862
+Steyerberg	05764
+Westerburg Westerw.	02663
+Vohenstrauss	09651
+Ostrau (Sachs.)	034324
+Au i.d.Hallertau	08752
+Welschen Ennest	02764
+Wolfegg	07527
+Waldsolms	06085
+Gerabronn	07952
+Ascheberg Holst.	04526
+Fensterbach	09438
+Altusried	08373
+Cuxhaven-Altenwalde	04723
+Lichtenfels-Sachsenberg	06454
+Seubersdorf Oberpf.	09497
+Baunach	09544
+Seestermuehe	04125
+Westhofen Rheinhess.	06244
+Holdorf Niedersachs	05494
+Haan Rheinl.	02129
+Wuppertal	0202
+Schauenburg	05601
+Schiffdorf	04706
+Reit Im Winkl	08640
+Demmin	03998
+Wertach	08365
+Inzell	08665
+Bordesholm	04322
+Kaisersbach	07184
+Gangkofen-Kollbach	08735
+Bredenbek b.Rendsburg	04334
+Altreetz	033457
+Kappeln Schlei	04642
+Rothenschirmbach	034776
+Fleetmark	039034
+Voerde Niederrhein	02855
+Fuerfeld Kr.Bad Kreuznach	06709
+Bad Wimpfen	07063
+Schlitz	06642
+Ilshofen	07904
+Stuhr-Heiligenrode	04206
+Pretzsch	034926
+Koeckte	039004
+Saarwellingen	06838
+Saarlouis	06831
+Fahrland	033208
+Marsberg-Westheim	02994
+Oberkail	06567
+Grevesmuehlen	03881
+Altenthann	09408
+Roetha	034206
+Tutow	039999
+Rhauderfehn-Burlage	04967
+Lahstedt	05174
+Karby	04644
+Muehldorf a.Inn	08631
+Neckartenzlingen	07127
+Dietenheim	07347
+Kusel	06381
+Wald Oberpf.	09463
+Steinfeld Oldb.	05492
+Senden-Ottmarsbocholt	02598
+Stoettwang	08345
+Marpingen	06853
+Thannhausen Schwab.	08281
+Flonheim	06734
+Bad Vilbel	06101
+Laufen Salzach	08682
+Waldfeucht	02455
+Gescher	02542
+Stadtilm	03629
+Arensdorf	033635
+Nettetal-Lobberich	02153
+Loewenberg	033094
+Blankenrath	06545
+Heiligenstadt Oberfr.	09198
+Woerth a.Rhein	07271
+Penkun	039751
+Woldegk	03963
+Seeshaupt	08801
+Waldrach	06500
+Weissensberg	08389
+Gernsbach	07224
+Fichtenau	07962
+Lobenstein	036651
+Gross Ippener	04224
+Miesbach	08025
+Willingshausen	06697
+Bovenden-Lenglern	05593
+Giessen	0641
+Hille	05703
+Hattersheim a.Main	06190
+Oberweser	05574
+Geesthacht	04152
+Bissendorf Kr.Osnabrueck	05402
+Schlagsdorf	038875
+Wettringen Kr.Steinfurt	02557
+Beckum	02521
+Muenden-Hedemuenden	05545
+Gettorf	04346
+Anger	08656
+Masserberg	036870
+Auetal-Hattendorf	05752
+Buechenbeuren	06543
+Joehstadt	037343
+Grossbodungen	036077
+Brilon-Messinghausen	02963
+Schlangenbad	06129
+Kraftsdorf	036606
+Ziesar	033830
+Adelsdorf	09195
+Haiger	02773
+Luedinghausen	02591
+Kuerten	02268
+Arneburg	039321
+Lippetal-Herzfeld	02923
+Schwegenheim	06344
+Zell Oberfr.	09257
+Seeheim-Jugenheim	06257
+Marienberg	03735
+Ehrenfriedersdorf	037341
+Luetzow	038874
+Borkum	04922
+Frellstedt	05355
+Olfen	02595
+Ruedersdorf	033638
+Schoenenberg-Kuebelberg	06373
+Deining Oberpf.	09184
+Zuchau	039295
+Kandel	07275
+Poppenhausen Wasserkuppe	06658
+Sittensen	04282
+Suederstapel	04883
+Eltmann	09522
+Beverstedt	04747
+Sagard	038302
+Falkenhagen	033986
+Kueps	09264
+Feldberg Schwarzw.	07676
+Simbach a.Inn	08571
+Braunschweig-Wenden	05307
+Bernkastel-Kues	06531
+Treuen	037468
+Oerlinghausen	05202
+Fuessen	08362
+Beckingen-Reimsbach	06832
+Elsdorf Rheinl.	02274
+Bad Hersfeld	06621
+Jocketa	037439
+Hermsdorf (Osterzgeb.)	035057
+Wilhelmsthal Oberfr.	09260
+Recke	05453
+Doerpstedt	04627
+Vitte	038300
+Neunkirchen Saar	06821
+Irrel	06525
+Rotthalmuenster	08533
+Weismain	09575
+Erfde	04333
+Budenheim	06139
+Trautskirchen	09107
+Tegernsee	08022
+Oberviechtach	09671
+Blieskastel-Altheim	06844
+Himbergen	05828
+Huellhorst	05744
+Chemnitz	0371
+Damme Duemmer	05491
+Bad Birnbach Rottal	08563
+Fuchstal	08243
+Oberthal Saar	06854
+Laubach Hess.	06405
+Allstedt	034652
+Bad Koesen	034463
+Engelskirchen	02263
+Hartha	034328
+Kaufungen	05605
+Tann Niederbay.	08572
+Hohenstein-Ernstthal	03723
+Grosspostwitz (Ol.)	035938
+Mayen	02651
+Waldems	06087
+Lennestadt	02721
+Ochsenfurt	09331
+Luettewitz	034325
+Bad Brambach	037438
+Welschneudorf	02608
+Juenkerath	06597
+Meckesheim	06226
+Lemfoerde	05443
+Basslitz	035249
+Thurnau	09228
+Dergenthin	038793
+Loitz	039998
+Durmersheim	07245
+Kelheim	09441
+Gelsenkirchen	0209
+Boizenburg	038847
+Elbingerode	039454
+Wilhelmshaven	04421
+Fronreute	07505
+Vienenburg	05324
+Miltach	09944
+Bad Oldesloe	04531
+Trossingen	07425
+Eitorf	02243
+Ludwigsfelde	03378
+Rosshaupten Forggensee	08367
+Wittmund-Burhafe	04973
+Freudenberg Westf.	02734
+Niederzier	02428
+Donaueschingen	0771
+Diepholz	05441
+Petershagen-Heimsen	05768
+Oberkotzau	09286
+Olsbruecken	06308
+Neukirchen	039396
+Eberswalde-Finow	03334
+Hirschfeld	035343
+Luebtheen	038855
+Hetzdorf	039745
+Hohensaaten	033368
+Lenting	08456
+Tarp	04638
+Moringen	05554
+Krieschow	035604
+Alpirsbach	07444
+Tacherting-Peterskirchen	08622
+Barendorf	04137
+Pielenhofen	09409
+Lindow (Mark)	033933
+Weiler-Simmerberg	08387
+Schwabmuenchen	08232
+Probstzella	036735
+Bad Rothenfelde	05424
+Hamburg	040
+Visselhoevede-Wittorf	04260
+Mandelbachtal	06804
+Oberpoering	09937
+Haarbach	08535
+Neunkirchen-Seelscheid	02247
+Heubisch	036761
+Tambach-Dietharz	036252
+Kamenz	03578
+Oster-Ohrstedt	04847
+Rosche	05803
+Radolfzell a.Bodensee	07732
+Kodersdorf	035825
+Wangerland	04463
+Tapfheim	09004
+Altenahr	02643
+Wallmerod	06435
+Lehnin	03382
+Wadersloh-Diestedde	02520
+Remagen-Rolandseck	02228
+Grossbothen	034384
+Obernkirchen	05724
+Sulzbach Saar	06897
+Sehnde	05138
+Immenstaad a.Bodensee	07545
+Stolpe	033338
+Osternienburg	034973
+Doberlug-Kirchhain	035322
+Daehre	039031
+Guetersloh	05241
+Seeon-Seebruck	08667
+Wartmannsroth	09737
+Herxheim b.Landau	07276
+Lauffen a.Neckar	07133
+Stolberg Rheinl.	02402
+Moenkebude	039774
+Heide Holst.	0481
+Neu-Isenburg	06102
+Klietz	039327
+Kalletal-Varenholz	05755
+Schesslitz	09542
+Schorndorf Wuertt.	07181
+Sueplingen	039053
+Hoechstadt a.d.Aisch	09193
+Ober-Moerlen	06002
+Glasin	038429
+Wittingen-Radenbeck	05836
+Gartow	05846
+Burgdorf-Ehlershausen	05085
+Schwabenheim a.d.Selz	06130
+Fassberg-Mueden	05053
+Heusweiler	06806
+Muelsen St.Jacob	037601
+Ottersberg-Fischerhude	04293
+Freyung	08551
+Rochlitz	03737
+Rostock	0381
+Thalmassing	09453
+Moorenweis	08146
+Dranse	033966
+Liebenau Hess.	05676
+Melsungen	05661
+Mittelneufnach	08262
+Altentreptow	03961
+Juergenstorf	039955
+Rees	02851
+Mistorf	038453
+Quellendorf	034977
+Schmallenberg-Fredeburg	02974
+Ganderkesee	04222
+Hildesheim	05121
+Kirchheim Schwab.	08266
+Starnberg	08151
+Joerdenstorf	039977
+Griesheim Hess.	06155
+Neuzelle	033652
+Moessingen	07473
+Doetlingen-Brettorf	04432
+Altdoebern	035434
+Ortenburg	08542
+Kranenburg Niederrhein	02826
+Litzendorf	09505
+Neumark(Sachs.)	037600
+Warmsen	05767
+Burghaun	06653
+Ostritz	035823
+Schnaitsee	08074
+Nordhorn	05921
+Gommern	039200
+Nesselwang	08361
+Trebur	06147
+Buttenheim	09545
+Triepkendorf	039820
+Salzbergen	05976
+Seelingstaedt	036608
+Ludwigsburg Wuertt.	07141
+Niederpoellnitz	036607
+Mosbach Baden	06261
+Wassertruedingen	09832
+Neuburg	038426
+Meckenheim Rheinl.	02225
+Breitenbrunn	037756
+Bad Driburg	05253
+Cloppenburg	04471
+Kuenzelsau	07940
+Horst	038333
+Illerkirchberg	07346
+Traunstein	0861
+Coswig (Anh.)	034903
+Binz, Ostseebad	038393
+Hennstedt b.Itzehoe	04877
+Mettmann	02104
+Burgwedel	05139
+Brieskow-Finkenheerd	033609
+Weilheim a.d.Teck	07023
+Nonnweiler	06873
+Fedderwarden	04423
+Trappstadt	09765
+Schwepnitz	035797
+Zeitz	03441
+Alzenau Unterfr.	06023
+Oranienbaum	034904
+Ketzin	033233
+Selbitz Oberfr.	09280
+Schwedt	03332
+Heimbach Nahe	06789
+Barmstedt	04123
+Teupitz	033766
+Guetzkow	038353
+Dillingen a.d.Donau	09071
+Flechtingen	039054
+Lichtenstein	037204
+Schmallenberg	02972
+Kassel	0561
+Bad Salzungen	03695
+Loef	02605
+Bruehl Rheinl.	02232
+Gammertingen	07574
+Kamen	02307
+Wietze	05146
+Wolfshagen	038789
+Krummhoern-Loquard	04927
+Taarstedt	04622
+Zuessow	038355
+Dierhagen, Ostseebad	038226
+Plattling	09931
+Gevelsberg	02332
+Luedershagen	038227
+Halblech	08368
+Anroechte	02947
+Buehnsdorf	04550
+Stadtsteinach	09225
+Wrestedt	05802
+Neustadt-Esperke	05073
+Schifferstadt	06235
+Weilheim Kr.Waldshut	07755
+Bovenden-Reyershausen	05594
+Daun	06592
+Weilmuenster	06472
+Schwarzenborn Knuell	05686
+Garching a.d.Alz	08634
+Nottuln	02502
+Altensteig Wuertt.	07453
+Tuerkheim Wertach	08245
+Heidenheim Mittelfr.	09833
+Tharandt	035203
+Walzbachtal	07203
+Niederbrombach	06787
+Hahnbach	09664
+Sulzbach a.Main	06028
+Fermerswalde	035363
+Trebsen	034383
+Grossdubrau	035934
+Eussenheim-Hundsbach	09350
+Spiegelau	08553
+Bissingen Schwab.	09005
+Hoetensleben	039405
+Grunow	033655
+Wangerland-Horumersiel	04426
+Warstein-Allagen	02925
+Feldatal	06637
+Freystadt-Burggriesbach	08469
+Jungingen b.Hechingen	07477
+Hessisch Oldendorf	05152
+Thierhaupten-Baar	08276
+Pausa	037432
+Bakum-Luesche	05438
+Niederorschel	036076
+Kist	09306
+Fluorn-Winzeln	07402
+Stelle Kr.Harburg	04174
+Bad Gottleuba	035023
+Stuttgart	0711
+Belm	05406
+Steinbach-Hallenberg	036847
+Zweibruecken	06332
+Herten Westf.	02366
+Barlt	04857
+Baddeckenstedt	05345
+Leuchtenberg	09659
+Kaufbeuren	08341
+Borgholzhausen	05425
+Mueden Aller	05375
+Thalmaessing	09173
+Glienicke	033677
+Neuenkirchen Oldb.	05493
+Nellingen Alb	07337
+Warin	038482
+Loebnitz	034208
+Hollfeld	09274
+Bonndorf i.Schwarzw.	07703
+Gross Munzel	05035
+Reichenhausen	036946
+Koelschhausen	06440
+Lichtenau Baden	07227
+Aachen	0241
+Bad Karlshafen	05672
+Woerlitz	034905
+Erndtebrueck	02753
+Creglingen	07933
+Heinsberg Rheinl.	02452
+Rosswein	034322
+Zwiedorf	039600
+Friedrichroda	03623
+Oberelsbach	09774
+Hennef Sieg	02242
+Winsen Luhe	04171
+Wutach	07709
+Berkenthin	04544
+Kietz	033479
+Born (Darss)	038234
+Koeln	0221
+Sande Kr.Friesl	04422
+Zeven	04281
+Reinheim Odenw.	06162
+Buchloe	08241
+Herbstein	06643
+Goessenheim	09358
+Eslarn	09653
+Rennertshofen	08434
+Wahlstedt	04554
+Ellwangen-Roehlingen	07965
+Wilburgstetten	09853
+Beelitz  (Mark)	033204
+Michelstadt	06061
+Lengenfeld Unterm Stein	036027
+Meinerzhagen	02354
+Frohburg	034348
+Eggebek	04609
+Grossschirma	037328
+Heuthen	036084
+Fuerstenwalde (Spree)	03361
+Gramzow	039861
+Obernzell	08591
+Greussen	03636
+Wallduern	06282
+Steinhorst Niedersachs	05148
+Behrenhoff	038356
+Rothenburg (Ol.)	035891
+Gladenbach	06462
+Taching-Tengling	08687
+Schwedeneck	04308
+Lehre	05308
+Doetlingen	04433
+Triftern	08562
+Heidenau	03529
+Weingarten Baden	07244
+Eurasburg a.d.Isar	08179
+Gross Doelln	039883
+Kevelaer	02832
+Coesfeld-Lette	02546
+Velbert-Langenberg	02052
+Waxweiler	06554
+Teuchern	034443
+Gondershausen	06745
+Hoexter-Fuerstenau	05277
+Apen	04489
+Sylt-Ost	04654
+Bergkirchen Westf.	05734
+Tauche	033675
+Rositz	034498
+Waldkirchen Niederbay.	08581
+Bad Bentheim-Gildehaus	05924
+Grosssteinhausen	06339
+Groeditz	035263
+Bleialf	06555
+Koenigshain	035826
+Kelberg	02692
+Mariaposching	09906
+Welzow	035751
+Billerbeck Westf.	02543
+Moitin	038297
+Goyatz	035478
+Hohenau Niederbay.	08558
+Mutzschen	034385
+Schmidmuehlen	09474
+Rhaunen	06544
+Neustadt a.Ruebenberge	05032
+Hamminkeln-Bruenen	02856
+Treis-Karden	02672
+Borsdorf	034291
+Kaisersesch	02653
+Borstel b.Sulingen	04276
+Prien a.Chiemsee	08051
+Erwitte	02943
+Hohennauen	033872
+Sandstedt	04702
+Scheibenberg	037349
+Friedeburg Ostfriesl	04465
+Neutraubling	09401
+Roggendorf	038876
+Grettstadt	09729
+Kirchberg Hunsrueck	06763
+Dreileben	039293
+Bensberg	02204
+Kornwestheim	07154
+Rosendahl-Darfeld	02545
+Homburg Saar	06841
+Bad Bibra	034465
+Pritzier	038856
+Konzell	09963
+Toepen	09295
+Coswig	03523
+Doebeln	03431
+Rennerod	02664
+Liebenwalde	033054
+Kirchdorf (Poel.)	038425
+Eiterfeld	06672
+Feldberg-Altglashuetten	07655
+Neuhausen Ob Eck	07467
+Sarstedt	05066
+Modautal	06167
+Cavertitz	034363
+Neuenkirchen b.Bramsche	05465
+Siegburg	02241
+Delbrueck Westf.	05250
+Goessweinstein	09242
+Schwerin (Meckl.)	0385
+Wellheim	08427
+Gruendau	06058
+Sulzbach-Laufen	07976
+Camburg	036421
+Hoppenrade	033982
+Hattingen Ruhr	02324
+Stuer	039924
+Wanfried	05655
+Diesdorf (Altm.)	03902
+Limburg a.d.Lahn	06431
+Wuelfrath	02058
+Nieder Seifersdorf	035827
+Pruem	06551
+Hagen-Dahl	02337
+Bodenmais	09924
+Furth i.Wald	09973
+Zerrenthin	039743
+Scharbeutz-Poenitz	04524
+Baiersbronn-Schwarzenberg	07447
+Lauterstein	07332
+Zingst a.Darss	038232
+Roding-Neubaeu	09469
+Duelmen-Buldern	02590
+Jessen (Elster)	03537
+Halberstadt	03941
+Grosskrotzenburg	06186
+Freren	05902
+Liebenburg	05346
+Sylda	034742
+Blankenheim Ahr	02449
+Lichtenberg	037323
+Aschau-Sachrang	08057
+Dietmannsried	08374
+Nienburg Weser	05021
+Senftenberg	03573
+Bensheim	06251
+Dorsten-Wulfen	02369
+Diemelsee	05633
+Buende	05223
+Burgkunstadt	09572
+Hassloch	06324
+Calw	07051
+Rengsdorf	02634
+Prettin	035386
+Trendelburg	05675
+Westerstede	04488
+Ladenburg	06203
+Grossfahner	036206
+Oehna	033742
+Langebrueck	035201
+Heringen	036333
+Salzhausen	04172
+Diemelstadt	05694
+Sulzdorf a.d.Lederhecke	09763
+Albersdorf Holst.	04835
+Bad Sachsa	05523
+Kaisheim	09009
+Niedernhausen Taunus	06127
+Luebbenau	03542
+Drage Elbe	04177
+Lebusa	035364
+Greven-Reckenfeld	02575
+Bebertal	039062
+Heppenheim Bergstr	06252
+Garmisch-Partenkirchen	08821
+Arolsen	05691
+Bad Essen	05472
+Naumburg	05625
+Bruckberg Niederbay.	08765
+Thedinghausen	04204
+Messdorf	039083
+Frankenhardt	07959
+Ottweiler	06824
+Sonnenbuehl	07128
+Bornhoeved	04323
+Geratskirchen	08728
+Woerth-Buechelberg	07277
+Moenchengladbach	02161
+Beedenbostel	05145
+Buetzow	038461
+Kerpen Rheinl.	02237
+Bad Dueben	034243
+Templin	03987
+Gieboldehausen	05528
+Karlshuld	08454
+Kaltennordheim	036966
+Beselich	06484
+Stetten a.Kalten Markt	07573
+Hoevelhof	05257
+Windischeschenbach	09681
+Juebar	039003
+Schlesen	04303
+Hennigsdorf	03302
+Michelsneukirchen	09467
+Koenigswinter-Oberpleis	02244
+Kalkar	02824
+Burgwald Eder	06457
+Rochau	039328
+Teufelsmoor	04796
+Lichtenstein Wuertt.	07129
+Simmern Hunsrueck	06761
+Gammelsdorf	08766
+Gomadingen	07385
+Leipzig	0341
+Rhumspringe	05529
+Pilsting	09953
+Bad Kissingen	0971
+Drensteinfurt-Rinkerode	02538
+Schwindegg	08082
+Crimmitschau	03762
+Hilzingen	07739
+Steinheid	036704
+Neudrossenfeld	09203
+Nennhausen	033878
+Strasburg	039753
+Meerbusch-Lank	02150
+Krensitz	034295
+Neuried Ortenaukreis	07807
+Taucha	034298
+Neustadt a.d.Aisch	09161
+Wuelfershausen Unterfr.	09728
+Huenfelden	06438
+Glashuette (Sachs.)	035053
+Ravensburg	0751
+Friedberg Hess.	06031
+Moeckern	039221
+Zwiefalten	07373
+Philippsburg	07256
+Murrhardt	07192
+Nagold-Hochdorf	07459
+Steinbergkirche	04632
+Ipsheim	09846
+Moenchengladbach-Rheydt	02166
+Harsewinkel	05247
+Rheinbrohl	02635
+Neetze	05850
+Uettingen	09369
+Ottendorf	036426
+Olbernhau	037360
+Reuth	037435
+Tuebingen	07071
+Herborn Hess.	02772
+Werne	02389
+Thomasburg	05859
+Schwarzenbek	04151
+Waldenburg	037608
+Langwedel Kr.Verden	04232
+Eisfeld	03686
+Ahausen-Kirchwalsede	04269
+Meisenheim	06753
+Aumuehle b.Hamburg	04104
+Buetthard	09336
+Goch	02823
+Buchbach Oberbay.	08086
+Riedlingen Wuertt.	07371
+Wertheim-Dertingen	09397
+Saulgau	07581
+Altenstadt Iller	08337
+Rosstal	09127
+Buckow	033433
+Wolfstein Pfalz	06304
+Nettersheim	02486
+Triptis	036482
+Brueck	033844
+Gelnhausen	06051
+Koesslarn	08536
+Wolkenstein	037369
+Haina Kloster	06456
+Meinerzhagen-Valbert	02358
+Potsdam	0331
+Dietramszell	08027
+Ruethen-Oestereiden	02954
+Falkenhain	034262
+Herrieden	09825
+Nossentiner Huette	039927
+Ruhla	036929
+Freudenberg-Boxtal	09377
+Ottweiler-Fuerth	06858
+Gresenhorst	038224
+Einsiedel	037209
+Nuertingen	07022
+Nagel	09236
+Bad Liebenstein	036961
+Wadern	06871
+Pfaffing a.d.Attel	08076
+Marktzeuln	09574
+Neukirchen-Balbini	09465
+Waldenbuch	07157
+Burgau Schwab.	08222
+Blaubeuren	07344
+Braunlage-Hohegeiss	05583
+Goerwihl	07754
+Neubukow	038294
+Mieste	039082
+Toerpin	039996
+Rothenberg Odenw.	06275
+Uhyst	035728
+Jerchel	039087
+Bienenbuettel	05823
+Bernau	03338
+March Breisgau	07665
+Kalbe	039080
+Gammelin	038850
+Koenigswartha	035931
+Springe-Eldagsen	05044
+Gardelegen	03907
+Neustadt (Orla)	036481
+Sickte	05305
+Aken	034909
+Ostenfeld b.Husum	04845
+Schmoelln	034491
+Kirchlinteln	04236
+Welschbillig	06506
+Eldena	038755
+Gross Pankow	033983
+Koenigsbrunn b.Augsburg	08231
+Gerswalde	039887
+Goerisried	08302
+Lenzkirch	07653
+Mellrichstadt	09776
+Bad Laasphe-Feudingen	02754
+Stoetten a.Auerberg	08349
+Nordheim Vd.Rhoen	09779
+Borna	03433
+Lebach-Steinbach	06888
+Meissner	05657
+Ennigerloh-Westkirchen	02587
+Struth	036026
+Bodenheim Rhein	06135
+Nordhastedt	04804
+Windorf-Otterskirchen	08546
+Wemding	09092
+Schopp	06307
+Wittingen-Knesebeck	05834
+Westerkappeln-Velpe	05456
+Windbergen	04859
+Crinitz	035324
+Koenigsbach-Stein	07232
+Wusterwitz	033839
+Mulfingen Jagst	07938
+Aalen-Ebnat	07367
+Oldenburg i.Holst.	04361
+Singen Hohentwiel	07731
+Neudenau	06264
+Hinterzarten	07652
+Fuerstenzell	08502
+Heringsdorf	04365
+Edewecht-Friedrichsfehn	04486
+Hude Oldb.	04408
+Leegebruch	033052
+Woehrden Dithm.	04839
+Roggenburg	07300
+Kemnitz	038352
+Ostramondra	036378
+Steinau-Marjoss	06660
+Willebadessen-Peckelsheim	05644
+Freiburg-Tiengen	07664
+Leverkusen	0214
+Stutensee	07249
+Holzwickede	02301
+Osterhofen-Gergweis	08547
+Hohne b.Celle	05083
+Boeblingen	07031
+Gaukoenigshofen	09337
+Alt Duvenstedt	04338
+Wutike	033976
+Teisnach	09923
+Dornum Ostfriesl	04933
+Wedemark	05130
+Kierspe	02359
+Kleinschmalkalden	036849
+Meeder	09566
+St.Wolfgang Kr.Erding	08085
+Hameln	05151
+Weferlingen	039061
+Dietzhausen	036846
+Duerrweitzschen	034386
+Bargteheide	04532
+Ruhmannsfelden	09929
+Mommenheim	06138
+Neuruppin	03391
+Sustrum	05939
+Zell i.Wiesental	07625
+Dettum	05333
+Lippstadt-Benninghausen	02945
+Homberg Efze	05681
+Klettgau	07742
+Butzbach	06033
+Warendorf-Hoetmar	02585
+Waldeck-Sachsenhausen	05634
+Dentlein a.Forst	09855
+Bad Urach	07125
+Pulsnitz	035955
+Wangerland-Hooksiel	04425
+Koenigsfeld i.Schwarzwald	07725
+Briesen (Mark)	033607
+Nordholz b.Bremerhaven	04741
+Marienthal	033080
+Hadmersleben	039408
+Briesen	035606
+Nassau Lahn	02604
+Schwaebisch Hall-Sulzdorf	07907
+Bad Liebenwerda	035341
+Altertheim	09307
+Steyerberg-Voigtei	05769
+Mettlach	06864
+Viereck	039748
+Jemgum	04958
+Burbach Siegerl.	02736
+Klettenberg	036336
+Verden Aller	04231
+Gielow	039957
+Emlichheim	05943
+Jacobsdorf	033608
+Priessen	035327
+Bischofsgruen	09276
+Ilsenburg	039452
+Forchtenberg	07947
+Laaber	09498
+Siggelkow	038724
+Gollin	039882
+Soerup	04635
+Rugendorf	09223
+St.Wendel-Niederkirchen	06856
+Warendorf	02581
+Neuglobsow	033081
+Dautphetal-Friedensdorf	06466
+Rhade b.Zeven	04285
+Ihlow	04929
+Neuhaus (Elbe)	038841
+Tangeln	039007
+Muecka	035893
+Markt Erlbach	09106
+Pfoerring	08403
+Ostheim Vd.Rhoen	09777
+Zwiesel	09922
+Weinboehla	035243
+Dassow	038826
+Rickenbach Hotzenw	07765
+Asbach Westerw.	02683
+Freilingen Westerw.	02666
+Barssel	04499
+Kroepelin	038292
+Bonese	039039
+Bad Koestritz	036605
+Niesky	03588
+Virneburg	02656
+Messkirch	07575
+Rottenbuch Oberbay.	08867
+Schierke	039455
+Weilmuenster-Wolfenhausen	06475
+Vetschau	035433
+Forchheim Oberfr.	09191
+Neubrandenburg	0395
+Freigericht	06055
+Dettelbach	09324
+Aurach	09804
+Johanniskirchen	08564
+Horn-Bad Meinberg	05234
+Rietzneuendorf	035477
+Lauf a.d.Pegnitz	09123
+Oberteuringen	07546
+Finsterwalde	03531
+Pommelsbrunn	09154
+Heeslingen-Boitzen	04287
+Pfaffenhofen a.d.Ilm	08441
+Herzogenrath-Kohlscheid	02407
+Bodenwerder	05533
+Gschwend b.Gaildorf	07972
+Rendsburg	04331
+Telgte	02504
+Ingolstadt-Zuchering	08450
+Wollin	033833
+Poessneck	03647
+Lalling	09904
+Achberg	08380
+Bad Bocklet	09708
+Satrup	04633
+Groitzsch	034296
+Bietikow	039858
+Roding	09461
+Horb-Dettingen	07482
+Warstein	02902
+Genthin	03933
+Obersoechering	08847
+Castrop-Rauxel	02305
+Zechlinerhuette	033921
+Bad Gandersheim	05382
+Huenfeld	06652
+Obernzenn	09844
+Werlte	05951
+Ebsdorfergrund	06424
+Bochum-Wattenscheid	02327
+Tabarz	036259
+Vinzelberg	039325
+Pappenheim Mittelfr.	09143
+Grabenstaett Chiemsee	08661
+Drensteinfurt-Walstedde	02387
+Marienmuenster	05276
+Niebuell	04661
+Brunsbuettel	04852
+Surwold	04965
+Tanna	036646
+Bad Berneck	09273
+Bechhofen a.d.Heide	09822
+Cambs	03866
+Niederndodeleben	039204
+Leinburg	09120
+Menden Sauerl	02373
+Groemitz-Cismar	04366
+Kehnert	039366
+Steinsdorf	035384
+Tannheim Wuertt.	08395
+Foerderstedt	039266
+Mitterteich	09633
+Mitterfels	09961
+Bad Iburg	05403
+Bayerbach b.Ergoldsbach	08774
+Ruhpolding	08663
+Kladrum	038723
+Muenster-Albachten	02536
+Blieskastel	06842
+Thimmendorf	036643
+Tuttlingen	07461
+Stafstedt	04875
+Bestwig-Ramsbeck	02905
+Stadland-Schwei	04737
+Hohn b.Rendsburg	04335
+Woerth a.d.Donau	09482
+Hammersbach Hess.	06185
+Arnschwang	09977
+Liebstadt	035025
+Emmerthal	05155
+Hungen	06402
+Gau-Algesheim	06725
+Gruenstadt	06359
+Emskirchen	09104
+Neureichenau	08583
+Torfhaus	05320
+Neresheim	07326
+Stadelhofen	09504
+Wilhelmsfeld	06220
+Aufhausen Oberpf.	09454
+Bruchmuehlbach-Miesau	06372
+Breitscheid Hess.	02777
+Vilsheim	08706
+Mockrehna	034244
+Osterode a.Harz	05522
+Wallduern-Altheim	06285
+Heiligenstadt	03606
+Wustrow, Ostseebad	038220
+Rastede	04402
+Rohrdorf Kr.Rosenheim	08032
+Oberried Breisgau	07602
+Ottendorf-Okrilla	035205
+Walsrode-Stellichte	05168
+Emmerich-Elten	02828
+Rot Am See-Brettheim	07958
+Schwanstetten	09170
+Kirchgellersen	04135
+Winningen	02606
+Dornburg	06436
+Reisbach Niederbay.	08734
+Ransbach-Baumbach	02623
+Harzgerode	039484
+Lichtenau-Atteln	05292
+Horst Holst.	04126
+Schoenermark	039852
+Altenstadt Hess.	06047
+Wolfratshausen	08171
+Ottobeuren	08332
+Gilserberg	06696
+Friedland	033676
+Beimerstetten	07348
+Bad Bentheim	05922
+Strasskirchen	09424
+Kisselbach	06766
+Ankum	05462
+Altenkirchen Westerw.	02681
+Dietenhofen	09824
+Luebeck-Travemuende	04502
+Wriedel	05829
+Rickling	04328
+Olpe Biggesee	02761
+Blankensee	039826
+Grossefehn-Timmel	04945
+Zehdenick	03307
+Kesseling	02647
+Mehltheuer (Vogtl.)	037431
+Stauchitz	035268
+Adenau	02691
+Schoenau i.Schwarzw.	07673
+Wusterhusen	038354
+Muehlhausen Mittelfr.	09548
+Linsburg	05027
+Saalburg	036647
+Laehden	05964
+Gross Bisdorf	038332
+Krummhoern-Greetsiel	04926
+Stephansposching	09935
+Pleinfeld	09144
+Wipperfuerth	02267
+Dippmannsdorf	033846
+Hildburghausen	03685
+Wolfsburg	05361
+Sarnow	039722
+Viersen	02162
+Fintel	04265
+Buehlerzell	07974
+Kuelsheim Baden	09345
+Wadern-Nunkirchen	06874
+Sulingen	04271
+Karstaedt	038797
+Struppen	035020
+Schonungen-Marktsteinach	09727
+Jagstzell	07967
+Uehlingen	07743
+Neuhof-Hauswurz	06669
+Talkau	04156
+Bueden	039224
+Egling b.Wolfratshausen	08176
+Mihla	036924
+Flintbek	04347
+Ueberherrn	06836
+Salmtal	06578
+Weesenstein	035027
+Hamm Westf.	02381
+Heringsdorf, Seebad	038378
+Muecke	06400
+Juergenshagen	038466
+Brachbach Sieg	02745
+Rudolstadt	03672
+Rheinfelden Baden	07623
+Krippen	035028
+Neunburg Vorm Wald	09672
+Waltenhofen-Oberdorf	08379
+Denzlingen	07666
+Boernicke	033230
+Brohl-Luetzing	02633
+Roethlein	09723
+Efringen-Kirchen	07628
+Niedergoersdorf	033741
+Oestringen-Odenheim	07259
+Laucha (Unstrut)	034462
+Jembke	05366
+Badel	039009
+Reichenbach-Steegen	06385
+Meschede-Freienohl	02903
+Ebhausen	07458
+Rott a.Inn	08039
+Eschlkam	09948
+Bad Kohlgrub	08845
+Willingen Upland	05632
+Molbergen-Peheim	04479
+Wunstorf-Grossenheidorn	05033
+Lorch Rheingau	06726
+Renningen	07159
+Emsbueren	05903
+Karlshagen	038371
+Zehna	038458
+Varel Jadebusen	04451
+Wymeer	04903
+Bodenfelde	05572
+Nassenheide	033051
+Schleching	08649
+Gailingen	07734
+Gudow Lauenb.	04547
+Morsbach Sieg	02294
+Rommerskirchen	02183
+Lauterhofen Oberpf.	09186
+Sonnewalde	035323
+Eckartsberga	034467
+Wriezen	033456
+Gera	0365
+Hillerse Kr.Gifhorn	05373
+Steinheim Westf.	05233
+Koetzting	09941
+Keltern	07236
+Altdorf-Pfettrach	08704
+Ehningen	07034
+Bispingen	05194
+Schwenningen a.Neckar	07720
+Ruedesheim a.Rhein	06722
+Schulzendorf	033083
+Gross Glienicke	033201
+Biebertal	06409
+Klein Plasten	039934
+Seedorf Lauenb.	04545
+Lutherstadt Eisleben	03475
+Neschwitz	035933
+Gedern	06045
+Gladau	039342
+Grosszschepa	034263
+Gorleben	05882
+Hagenbach Pfalz	07273
+Neustadt Hess.	06692
+Greifenhagen	034781
+Voelpke	039402
+Nordstrand	04842
+Dollnstein	08422
+Drochtersen	04143
+Driedorf	02775
+Seegrehna	034928
+Flecken Zechlin	033923
+Gundelfingen a.d.Donau	09073
+Treuchtlingen	09142
+Kreuth b.Tegernsee	08029
+Zerpenschleuse	033395
+Grimmen	038326
+Wiesmoor	04944
+Kunrau	039008
+Neumagen-Dhron	06507
+Knetzgau	09527
+Zeuthen	033762
+Herford	05221
+Spangenberg	05663
+Koengernheim	06737
+Bremervoerde	04761
+Grossheide	04936
+Rossla	034651
+Neuenkirchen Kr.Steinfurt	05973
+Hasborn	06574
+Rosengarten Kr.Harburg	04108
+Boll Kr.Goeppingen	07164
+Lampertheim	06206
+Wassenberg	02432
+Lehrte-Arpke	05175
+Tiefenbronn	07234
+Berg b.Neumarkt Oberpf.	09189
+Stotternheim	036204
+Nieheim	05274
+Demen	038488
+Bad Muenster-Ebernburg	06708
+Wallersdorf	09933
+Sesslach-Gemuenda	09567
+Weibersbrunn	06094
+Kemnath Stadt	09642
+Worms	06241
+Bad Berleburg-Girkhausen	02758
+Malchin	03994
+Neustadt b.Coburg	09568
+Weilerbach	06374
+Emmelshausen	06747
+Staffelstein Oberfr.	09573
+Attendorn	02722
+Vettelschoss	02645
+Hohenmocker	039993
+Seyda	035387
+Kaub	06774
+Benediktbeuern	08857
+Echzell	06008
+Vogtareuth	08038
+Waldsassen	09632
+Engen Hegau	07733
+Sterup	04637
+Schmallenberg-Boedefeld	02977
+Frose	034741
+Drebkau	035602
+Worpswede	04792
+Weissenburg i.Bay.	09141
+Ploessberg	09636
+Murg	07763
+Goerzke	033847
+Sonneberg(Thuer.)	03675
+Kleinow	038784
+Toeplitz	033202
+Volkach	09381
+Luebz	038731
+Menslage	05437
+Ebstorf	05822
+Merkers	036969
+Auerbach Oberpf.	09643
+Pritzwalk	03395
+Vorbach	09205
+Nentershausen Westerw.	06485
+Schwarzach Niederbay.	09962
+Romrod	06636
+Markt Schwaben	08121
+Estorf Weser	05025
+Ettenheim	07822
+Schleusingen	036841
+Suenching	09480
+Bleckede	05852
+Grossbottwar	07148
+Brakel-Gehrden	05648
+Schneverdingen-Wintermoor	05198
+Eppelborn	06827
+St.Goarshausen	06771
+Oer-Erkenschwick	02368
+Glan-Muenchweiler	06383
+Bergen Kr.Celle	05051
+Egeln	039268
+Huertgenwald	02429
+Hattstedt	04846
+Dietzhoelztal	02774
+Erding	08122
+Zichtau	039085
+Lengefeld (Erzgeb.)	037367
+Schwanewede-Aschwarden	04296
+Wildberg	039604
+Titting	08423
+Speichersdorf	09275
+Colnrade	04434
+Kelsterbach	06107
+Kalletal	05264
+Heiligenberg Baden	07554
+Koelleda	03635
+Kayna	034426
+Witzin	038481
+Huglfing	08802
+Muehlhausen	03601
+Hartenholm	04195
+Schlotheim	036021
+Altmannstein	09446
+Dinkelsbuehl	09851
+Fuerstenberg	033093
+Eckersdorf-Alladorf	09271
+Freisen	06855
+Allersberg	09176
+Artern	03466
+Fischbachau	08028
+Roitzsch	034954
+Wanzleben	039209
+Steinfurt-Burgsteinfurt	02551
+Geschendorf	04553
+Wolkramshausen	036334
+Marburg	06421
+Gemuenden Wohra	06453
+Kamern	039382
+Ditzingen	07156
+Bad Steben	09288
+Mansfeld (Suedharz)	034782
+Ulmen	02676
+Brakel Westf.	05272
+Vilshofen-Pleinting	08549
+Gerstetten	07323
+Uffenheim	09842
+Boehmfeld	08406
+Kirchheilingen	036043
+Zerbst	03923
+Bad Blankenburg	036741
+Albstadt-Laufen	07435
+Soehlde	05129
+Staufenberg Niedersachs	05543
+Endingen Kaiserstuhl	07642
+Erbach Odenw.	06062
+Tirschenreuth	09631
+Zeitlofs	09746
+Rastenberg	036377
+Hohberg b.Offenburg	07808
+Schnelldorf Mittelfr.	07950
+Bodenkirchen	08745
+Gronau Westf.	02562
+Meldorf	04832
+Straussfurt	036376
+Nossendorf	039995
+Molbergen	04475
+Bleckede-Brackede	05857
+Hanerau-Hademarschen	04872
+Neuhaus a.Rennweg	03679
+Boostedt	04393
+Beerfelden	06068
+Dassel	05564
+Schweringen	04257
+Grimma	03437
+Barleben	039203
+Heidmuehlen	04320
+Limbach Baden	06287
+Parchen	039345
+Rheinsberg	033931
+Sinntal-Sterbfritz	06664
+Kalkhorst	038827
+Osterfeld	034422
+Backnang	07191
+Trippstadt	06306
+Feldkirchen-Westerham	08063
+Trinwillershagen	038225
+Apolda	03644
+Pinneberg	04101
+Marnitz	038729
+Sandhausen Baden	06224
+Wermsdorf	034364
+Plate	03861
+Selfkant	02456
+Alt Zeschdorf	033602
+Gerstungen	036922
+Eilenburg	03423
+Wilsum	05945
+Asendorf Kr.Diepholz	04253
+Miesterhorst	039006
+Schneeberg (Erzgeb.)	03772
+Muehlenbeck	033056
+Lindenberg i.Allgaeu	08381
+Ursensollen	09628
+Luckenwalde	03371
+Fichtenwalde	033206
+Bodenteich	05824
+Graben-Neudorf	07255
+Ebrach Oberfr.	09553
+Seelze	05137
+Bad Liebenzell	07052
+Schoenbeck	03968
+Langenau Wuertt.	07345
+Grossschoenau	035841
+Eggenfelden	08721
+Siedenbollentin	03969
+Syke-Heiligenfelde	04240
+Henrichenburg	02367
+Ahaus-Alstaette	02567
+Richtenberg	038322
+Lauenbrueck	04267
+Marzahna	033747
+Freudenberg Baden	09375
+Nitzahn	033877
+Medow	039728
+Klettbach	036209
+Tann Rhoen	06682
+Luederitz	039361
+Koenigsee	036738
+Raubling	08035
+Bad Driburg-Neuenheerse	05259
+Roeblingen a.See	034774
+Elsfleth	04404
+Fulda	0661
+Paewesin	033838
+Oberursel Taunus	06171
+Gruenberg Hess.	06401
+Essing	09447
+Stadland-Rodenkirchen	04732
+Lugau (Erzgeb.)	037295
+Gersdorf	037203
+Apenburg	039001
+Alfeld Leine	05181
+Faulbach Unterfr.	09392
+Koenigheim-Brehmen	09340
+Guestrow	03843
+Itterbeck	05948
+Gross Buetzin	039976
+Moettingen	09083
+Villenbach	08296
+Eickendorf	039297
+Langenburg	07905
+Grambow	039749
+Niemegk	033843
+Weissenthurm	02637
+Miltenberg	09371
+Juechen-Otzenrath	02164
+Wulfsen	04173
+Nettetal-Kaldenkirchen	02157
+Thuengen	09360
+Perleberg	03876
+Kuehren	034261
+Seckach	06292
+Neuenbuerg Wuertt.	07082
+Landshut	0871
+Gomaringen	07072
+Ascheffel	04353
+Hohnstein	035975
+Nohn Eifel	02696
+Bredstedt	04671
+Kirkel	06849
+Wernigerode	03943
+Tennenbronn	07729
+Massbach	09735
+Westerkappeln	05404
+Besigheim	07143
+Euerbach	09726
+Woerth-Schaidt	06340
+Podelzig	033601
+Lichtenfels Bay.	09571
+Grossenehrich	036370
+Meppen-Apeldorn	05966
+Enkenbach-Alsenborn	06303
+Braunlage	05520
+Riede Kr.Verden	04294
+Luenen	02306
+St.Margarethen Holst.	04858
+Helmstedt-Barmke	05356
+Wiesentheid	09383
+Timmendorfer Strand	04503
+Elmstein	06328
+Goldenstedt	04444
+Ennepetal	02333
+Wildberg	033928
+Kloeden	035388
+Zinnowitz	038377
+Boenen	02383
+Lichtenfels-Goddelsheim	05636
+Grossenkneten-Huntlosen	04487
+Ruelzheim	07272
+Burtenbach	08285
+Koennern	034691
+Ballenstedt	039483
+Peine	05171
+Knuellwald	05685
+Steinheim a.Albuch	07329
+Wuerzburg	0931
+Limbach-Oberfrohna	03722
+Beckingen	06835
+Holzdorf	035389
+Bielefeld-Joellenbeck	05206
+Rettenberg	08327
+Teicha	034606
+Abenberg Mittelfr.	09178
+Tuntenhausen-Schoenau	08065
+Donaustauf	09403
+Koerner	036025
+Floersbachtal	06057
+Bergenhusen	04885
+Zwesten	05626
+Putlitz	033981
+Plaue	036207
+Bruchsal-Untergrombach	07257
+Schoeneck	037464
+Hennickendorf	033732
+Schnackenburg	05840
+Elzach	07682
+Badbergen	05433
+Bobenneukirchen	037434
+Heldburg	036871
+Rotenburg a.d.Fulda	06623
+Thierstein	09235
+Undeloh	04189
+Stoetze	05872
+Lemgow	05883
+Seevetal	04105
+Waldmuenchen-Geigant	09975
+Oberharmersbach	07837
+Titz	02463
+Lautrach	08394
+Dannenberg Elbe	05861
+Oberaurach	09529
+Straelen-Herongen	02839
+Jork	04162
+Bad Schwalbach	06124
+Wildenfels	037603
+Friesoythe-Thuele	04495
+Ansbach-Katterbach	09802
+Regen	09921
+Rastow	03868
+Duisburg	0203
+Berg Oberfr.	09293
+Heudeber	039458
+Lommatzsch	035241
+Odelzhausen	08134
+Stubben b.Bremerhaven	04748
+Weiherhammer	09605
+Bad Koenig	06063
+Neheim-Huesten	02932
+Michelstadt-Vielbrunn	06066
+Martinstein	06754
+Bergholz-Rehbruecke	033200
+Nordhalben	09267
+Ochtendung	02625
+Oberhaid Oberfr.	09503
+Segeletz	033978
+Horneburg Niederelbe	04163
+Inchenhofen	08257
+Barderup	04630
+Reinfeld Holstein	04533
+Gleichen-Rittmarshausen	05508
+Donnersdorf	09528
+Pegnitz-Trockau	09246
+Badenweiler	07632
+Schwandorf	09431
+Warmensteinach	09277
+Friedrichstadt	04881
+Neukieritzsch	034342
+Schkeuditz	034204
+Moerfelden-Walldorf	06105
+Alfeld Mittelfr.	09157
+Creussen	09270
+Waischenfeld	09202
+Rehlingen-Siersburg	06833
+Komptendorf	035605
+Oppenau	07804
+Jerichow	039343
+Buttelstedt	036451
+Oberschneiding	09426
+Kohlberg Oberpf.	09608
+Ahlbeck	039775
+Ziegenrueck	036483
+Oberbaldingen	07706
+Dagebuell	04667
+Wangen i.Allgaeu	07522
+Brielow	033837
+Muehlacker	07041
+Woellstadt	06034
+Lindau Bodensee	08382
+Lucka	034492
+Langwedel Holst.	04329
+Aschau i.Chiemgau	08052
+Hirschberg (Saale)	036644
+Kollmar	04128
+Osterhever	04865
+Brattendorf	036878
+Neustadt-Lachen	06327
+Heilbronn Neckar	07131
+Rhens	02628
+Salem Baden	07553
+Berchtesgaden	08652
+Langquaid	09452
+Bachhagel	09077
+Loehne	05732
+Borkheide	033845
+Uetersen	04122
+Ansbach	0981
+Oberthulba	09736
+Ershausen	036082
+St.Maergen	07669
+Hechthausen	04774
+Pronsfeld	06556
+Schrozberg-Bartenstein	07936
+Bad Elster	037437
+Ingolstadt Donau	0841
+Berching-Holnstein	08460
+Puergen	08196
+Marlow	038221
+Fredersdorf	033439
+Bad Feilnbach	08066
+Neckargemuend	06223
+Lautertal Odenw.	06254
+Basthorst	04159
+Hohenfels Oberpf.	09472
+Rhinow	033875
+Ergersheim	09847
+Postbauer-Heng	09188
+Pforzen	08346
+Dahn	06391
+Steinau a.d.Strasse	06663
+Neualbenreuth	09638
+Schuettorf	05923
+Oberstaufen	08386
+Homberg Ohm	06633
+Dunningen	07403
+Wittelshofen	09854
+Sigmaringen-Gutenstein	07570
+Schneidlingen	039267
+Sugenheim	09165
+Bad Woerishofen	08247
+Unsleben	09773
+Neuhofen Pfalz	06236
+Luisenthal	036257
+Bleckede-Barskamp	05854
+Marktl	08678
+Boetersen	04268
+Haslach i.Kinzigtal	07832
+Joldelund	04673
+Sitzendorf	036730
+Niefern-oeschelbronn	07233
+Leisnig	034321
+Burgstaedt	03724
+Wolpertswende	07502
+Gersdorf	035829
+Heckelberg	033451
+Gefell	036649
+Pluwig	06588
+Giengen a.d.Brenz	07322
+Bramsche Hase	05461
+Niederreifenberg	06082
+Bad Pyrmont-Kleinenberg	05285
+Koenitz	036732
+Hirschfelde	035843
+Bad Schandau	035022
+Dittersdorf	036648
+Grub a.Forst	09560
+Ulrichstein	06645
+Lalendorf	038452
+Emkendorf	04330
+Gnoien	039971
+Weggun	039855
+Kropstaedt	034920
+Hof Saale	09281
+Nusse	04543
+Fuerstenwerder	039859
+Hatten-Sandkrug	04481
+Aitrang	08343
+Kuehlungsborn	038293
+Kressberg	07957
+Lienen	05483
+Nordstemmen	05069
+Wallhausen	034656
+Moritzburg	035207
+Kellinghusen	04822
+Sulzbach-Rosenberg	09661
+Geilenkirchen	02451
+Dinkelscherben	08292
+Wegscheid Niederbay.	08592
+Elsfleth-Huntorf	04485
+Woelfersheim	06036
+Nuernberg	0911
+Neuenkirchen Kr.Soltau	05195
+Eisenhuettenstadt	03364
+Roesrath	02205
+Everswinkel	02582
+Illertissen	07303
+Maulbronn	07043
+Friedenfels	09683
+Solnhofen	09145
+Brennberg	09484
+Untermerzbach	09533
+Guttau	035932
+Wagenfeld-Stroehen	05774
+Vechta	04441
+Ermstedt	036208
+Herbolzheim Breisgau	07643
+Golssen	035452
+Jena	03641
+Tangerhuette	03935
+Ettringen Wertach	08249
+Siegen	0271
+Klitsche	039348
+Bad Marienberg Westerw.	02661
+Kuhfelde	039035
+Marsberg-Bredelar	02991
+Bueren	02951
+Northeim	05551
+Ausleben	039404
+Geslau	09867
+Rheda-Wiedenbrueck	05242
+Altenberg	035056
+Siek Kr.Stormarn	04107
+Rockenhausen	06361
+Calbe (Saale)	039291
+Herdwangen-Schoenach	07557
+Krefeld	02151
+Frankfurt-Bergen-Enkheim	06109
+Offenhausen Mittelfr.	09158
+Gengenbach	07803
+Kisslegg	07563
+Goeritz	039851
+Hagen b.Bremerhaven	04746
+Bergen Dumme	05845
+Selb	09287
+Melle-Neuenkirchen	05428
+Burladingen	07475
+Mainz-Kastel	06134
+Petershagen	05707
+Plankenfels	09204
+Oranienburg	03301
+Georgensgmuend	09172
+Kastellaun	06762
+Coesfeld	02541
+Dommitzsch	034223
+Wolgast	03836
+Rechlin	039823
+Mauern Kr.Freising	08764
+Lohmar	02246
+Ellerhoop	04120
+Dornhan	07455
+Extertal-Bremke	05754
+Schinne	039320
+Adelberg	07166
+Schwalmtal-Storndorf	06630
+Oppenheim	06133
+Delitzsch	034202
+Markgroeningen	07145
+Blomberg Lippe	05235
+Bernried Niederbay.	09905
+Grossenhain	03522
+Altenmuenster Schwab.	08295
+Gersheim	06843
+Suessen	07162
+Moenchsdeggingen	09088
+Graefenroda	036205
+Marktleugast	09255
+Diedenshausen	02750
+Heuckewalde	034423
+Horstmar	02558
+Hohenseefeld	033744
+Feuchtwangen	09852
+Wokuhl	039825
+Strueth Taunus	06775
+Hasbergen Kr.Osnabrueck	05405
+Nastaetten	06772
+Neuss-Norf	02137
+Wiesensteig	07335
+Preetz	04342
+Jestetten	07745
+Muenchsmuenster	08402
+Krauchenwies	07576
+Niederoderwitz	035842
+Duelmen	02594
+Gehlberg	036845
+Walschleben	036201
+Kirchdorf b.Sulingen	04273
+Oberdolling	08404
+Blankenburg (Harz)	03944
+Rosslau	034901
+Dahlenburg	05851
+Dornstetten	07443
+Altenbeken	05255
+Kirchweidach	08623
+Visselhoevede	04262
+Bad Schoenborn	07253
+Zerf	06587
+Neumarkt-St.Veit	08639
+Ducherow	039726
+Bamberg	0951
+Taennesberg	09655
+Langgoens-Niederkleen	06447
+Biebergemuend	06050
+Adlkofen	08707
+Koserow	038375
+Merzen	05466
+Wellen Mosel	06584
+Brand-Erbisdorf	037322
+Spelle	05977
+Katzow	038373
+Groebzig	034976
+Passow	033336
+Bitterfeld	03493
+Walldorf Baden	06227
+Petershagen-Lahde	05702
+Schoemberg b.Neuenbuerg	07084
+Fischbachtal	06166
+Doerverden-Westen	04239
+Hannover	0511
+Viechtach	09942
+Waidhaus	09652
+Lengede	05344
+Schermbeck	02853
+Georgenberg	09658
+Welle Nordheide	04188
+Oybin,kurort	035844
+Marktheidenfeld	09391
+Zell Oberpf.	09468
+Wangen-Leupolz	07506
+Reher Holst.	04876
+Waechtersbach	06053
+Alpen	02802
+Luenne	05906
+Barsinghausen	05105
+Gluecksburg Ostsee	04631
+Alfhausen	05464
+Schopfloch Mittelfr.	09857
+Schwabsoien	08868
+Prieros	033768
+Barum b.Bad Bevensen	05806
+Bad Kleinen	038423
+Strassberg	039489
+Bedburg Erft	02272
+Schmiedefeld	036782
+Borgentreich	05643
+Spenge	05225
+Dransfeld	05502
+Rietberg-Mastholte	02944
+Langlingen	05082
+Falkenberg (Mark)	033458
+Arnstorf	08723
+Biblis	06245
+Heubach	07173
+Zachun	038859
+Tucheim	039346
+Loburg	039245
+Wenzenbach	09407
+Weida	036603
+Babenhausen Hess.	06073
+Sibbesse	05065
+Villingen i.Schwarzw.	07721
+Lahnstein	02621
+Edemissen	05176
+Uersfeld	02657
+Weisswasser	03576
+Hirschaid	09543
+Saal a.d.Saale	09762
+Bad Grund Harz	05327
+Groenenbach	08334
+Hetzerath Mosel	06508
+Deisslingen	07420
+Duderstadt	05527
+Neuharlingersiel	04974
+Bad Heilbrunn	08046
+Burghausen Salzach	08677
+Neustadt-Schneeren	05036
+Hirrlingen	07478
+Ebersbach a.d.Fils	07163
+Reinstaedt	036422
+Meerbusch-Osterath	02159
+Gallin	038732
+Markneukirchen	037422
+Drochtersen-Assel	04148
+Langeoog	04972
+Plaaz	038455
+Oberndorf a.Neckar	07423
+Nottuln-Appelhuelsen	02509
+Ziegenhain	035246
+Bad Muender a.Deister	05042
+Geithain	034341
+Eurasburg b.Augsburg	08208
+Bretzfeld	07946
+Neustadt a.d.Donau	09445
+Mittenwalde (Mark)	033764
+Bielefeld-Sennestadt	05205
+Sandersleben	034785
+Wolkenburg	037609
+Streufdorf	036875
+Buchholz-Trelde	04186
+Freiensteinau	06666
+Eschweiler Rheinl.	02403
+Usedom	038372
+Oldenburg Oldb.	0441
+Oepfershausen	036940
+Buxtehude	04161
+Sinsheim	07261
+Unterellen	036927
+Gloewen	038787
+Pressath	09644
+Klein Buenzow	039724
+Hoechstaedt a.d.Donau	09074
+Euskirchen	02251
+Weimar	03643
+Lisberg	09549
+Frankfurt (Oder)	0335
+Seesen-Gross Rhueden	05384
+Kirchroth	09428
+Warendorf-Milte	02584
+Semlow	038222
+Walkendorf	039972
+Sprockhoevel	02339
+Weidenberg	09278
+Grossraeschen	035753
+Senden Iller	07307
+Eystrup	04254
+Tagmersheim	09094
+Langenweddingen	039205
+Rhede Ems	04964
+Ferdinandshof	039778
+Friedrichsbrunn	039487
+Niederkirchen	06363
+Bad Orb	06052
+Waldkraiburg	08638
+Bernburg	03471
+Pfeffenhausen	08782
+Bassum-Nordwohlde	04249
+Witten	02302
+Annweiler a.Trifels	06346
+Wutha	036921
+Holzminden	05531
+Steisslingen	07738
+Kirchenthumbach	09647
+Wallhalben	06375
+Rosenheim Oberbay.	08031
+Garlstedt	04795
+Schoeppingen	02555
+Blumberg Baden	07702
+Benz	038379
+Taunusstein	06128
+Radeberg	03528
+Horka (Ol.)	035892
+Kloetze	03909
+Muehlanger	034922
+Neuenhaus Dinkel	05941
+Friedrichswerth	036254
+Neuendettelsau	09874
+Koenigstein i.Taunus	06174
+Holm-Seppensen	04187
+Kleptow	039854
+Cumlosen	038794
+Aschaffenburg	06021
+Mannheim	0621
+Pinnow	033335
+Hohenhameln	05128
+Woellstein Rheinhess.	06703
+Braubach	02627
+Seehausen	039863
+Bodman-Ludwigshafen	07773
+Volkenschwand	08754
+Marienhafe	04934
+Friedland	039601
+Augustdorf	05237
+Simmerath	02473
+Daaden	02743
+Bruckmuehl Mangfall	08062
+Lensahn	04363
+Lichtenau-Kleinenberg	05647
+Burkhardswalde	035245
+Kefenrod	06049
+Blowatz	038427
+Metelen	02556
+Hofbieber-Schwarzbach	06684
+Westerholt Ostfriesl	04975
+Wickede Ruhr	02377
+Mulda	037320
+Wald Hohenz	07578
+Schopfheim-Gersbach	07620
+Messstetten-Oberdigisheim	07436
+Dachsbach	09163
+Krakow a.See	038457
+Wolfsburg-Neindorf	05365
+Zechin	033473
+Ahaus	02561
+Vogtsburg i.Kaiserstuhl	07662
+Sellin, Ostseebad	038303
+Wismar	03841
+Wasserleben	039451
+Nonnweiler-Primstal	06875
+Isny i.Allgaeu	07562
+Aukrug	04873
+Dessow	033974
+Gemuenden Hunsrueck	06765
+Birkenhainchen	035471
+Doemitz	038758
+Soehrewald	05608
+Linkenheim-Hochstetten	07247
+Wittgensdorf	037200
+Kressbronn a.Bodensee	07543
+Monsheim	06243
+Aschersleben	03473
+Arnsberg-Oeventrop	02937
+Bad Peterstal-Griesbach	07806
+Neustrelitz	03981
+Wesendorf	05376
+Neuwied	02631
+Sondershausen	03632
+Neukirchen b.Sulzbach	09663
+Elmshorn	04121
+Guentersberge	039488
+Recklinghausen	02361
+Bopfingen	07362
+Lindenfels	06255
+Goch-Hassum	02827
+Lastrup-Hemmelte	04477
+Bayerisch Eisenstein	09925
+Remscheid	02191
+Langenhennersdorf	035032
+Abenberg-Wassermungenau	09873
+Brandis	034292
+Ippesheim	09339
+Wustrau	033925
+Bloensdorf	033743
+Mainz	06131
+Wesseling Rheinl.	02236
+Johanngeorgenstadt	03773
+Tettnang	07542
+Lemgo	05261
+Weilerswist	02254
+Kehl	07851
+Obing	08624
+Reken	02864
+Lindlar	02266
+Thuerkow	039975
+Tangstedt Bz Hamburg	04109
+Henneberg	036945
+Holzappel	06439
+Eslohe-Cobbenrode	02970
+Ritterhude	04292
+Diedorf	036024
+Bornheim-Merten	02227
+Rodewald	05074
+Fuldatal	05607
+Isserstedt	036425
+Osann-Monzel	06535
+Geseke	02942
+Eppingen	07262
+Nebra	034461
+Fischbach b.Dahn	06393
+Jameln	05864
+Bad Toelz	08041
+Floeha	03726
+Krummesse	04508
+Manderscheid Eifel	06572
+Eggesin	039779
+Roeslau	09238
+Bad Wurzach-Hauerz	07568
+Bornheim Rheinl.	02222
+Stade-Buetzfleth	04146
+Deggendorf	0991
+Biederitz	039292
+Neuhaeusel Westerw.	02620
+Liebertwolkwitz	034297
+Hanstedt Nordheide	04184
+Schongau	08861
+Fischach	08236
+Noebdenitz	034496
+Ventschow	038484
+Krien	039723
+Uckro	035454
+Haseluenne	05961
+Dettmannsdorf-Koelzow	038228
+Hohenwestedt	04871
+Hohenkirchen	038428
+Sachsenheim Wuertt.	07147
+Grebenhain	06644
+Elstra	035793
+Dahlem b.Kall	02447
+Papenburg-Aschendorf	04962
+Marksuhl	036925
+Knau	036484
+Uechtelhausen	09720
+Gudensberg	05603
+Lengenfeld (Vogtl.)	037606
+Bad Saarow-Pieskow	033631
+Hilden	02103
+Lenningen	07026
+Konken	06384
+Schnega	05842
+Themar	036873
+Merseburg	03461
+Wetter Ruhr	02335
+Zoerbig	034956
+Schwalmtal-Renzendorf	06638
+Suelfeld Holst.	04537
+Burgoberbach	09805
+Vioel	04843
+Alsfeld	06631
+Mengen Wuertt.	07572
+Lueneburg	04131
+Rosenberg Baden	06295
+Wurmannsquick	08725
+Lennestadt-Oedingen	02725
+Stallwang	09964
+Oberguenzburg	08372
+Marsberg-Canstein	02993
+Moelln Lauenb.	04542
+Visbek Kr.Vechta	04445
+Helmbrechts	09252
+Tribsees	038320
+Otterbach Pfalz	06301
+Roebel	039931
+Schlepzig	035472
+Haren-Ruetenbrock	05934
+Stoessen	034445
+Burgkirchen a.d.Alz	08679
+Bad Saeckingen	07761
+Rinteln	05751
+Neustadt-Glewe	038757
+Hilter a.Teutoburger Wald	05409
+Bad Buchau	07582
+Essen	0201
+Ossling	035792
+Hemau	09491
+Gaildorf	07971
+Vechelde	05302
+Rain Lech	09002
+Wunsiedel	09232
+Hilgertshausen-Tandern	08250
+Brannenburg	08034
+Globig	034927
+Ortrand	035755
+Juist	04935
+Braeunlingen	07707
+Hoernum Sylt	04653
+Wittingen	05831
+Lorup	05954
+Reckerscheid	02257
+Osthofen	06242
+Osnabrueck	0541
+Todtnau	07671
+Neuwegersleben	039401
+Kritzkow	038454
+Dingelstedt	039425
+Niederaula	06625
+Rodach	09564
+Wittibreut	08574
+Zehren	035247
+Falkensee	03322
+Straach	034929
+Waging a.See	08681
+Kochel-Walchensee	08858
+Husby	04634
+Boxberg	035774
+Melle	05422
+Moers	02841
+Todesfelde	04558
+Schrozberg-Spielbach	07939
+Garrel	04474
+Wiesau	09634
+Augustusburg	037291
+Greiz	03661
+Wittmund-Funnix	04467
+Hagen	02331
+Dabel	038485
+Wustrow	05843
+Duisburg-Rheinhausen	02065
+Altenkirchen	038391
+Selent	04384
+Menteroda	036029
+Mindelheim	08261
+Lassahn	038858
+Bismark  (Altm..)	039089
+Heek	02568
+Wittmannsdorf	035476
+Sebnitz	035971
+Molzhain	02747
+Loxstedt	04744
+Verden-Walle	04230
+Duerrwangen	09856
+Stemwede-Dielingen	05474
+Kissing	08233
+Friedewald Hess.	06674
+Linnich	02462
+Kerpen-Buir	02275
+Fritzlar	05622
+Cham	09971
+Schneverdingen	05193
+Metzingen Wuertt.	07123
+Gilching	08105
+Seehausen (Altm.)	039386
+Oberderdingen-Flehingen	07258
+Kruen	08825
+Wustermark	033234
+Waltenhofen	08303
+Dornburg (Saale)	036427
+Hadamar	06433
+Bad Endbach-Hartenrod	02776
+Hesseneck	06276
+Gerchsheim	09344
+Bad Wurzach	07564
+Untersteinbach Unterfr.	09554
+Forst	03562
+Neuss	02131
+Offingen Donau	08224
+Preusslitz	034722
+Wangerooge	04469
+Schweich	06502
+Lambrecht Pfalz	06325
+Kuerten-Duerscheid	02207
+Goehren	038308
+Salzkotten	05258
+Hambuehren	05084
+Willich-Anrath	02156
+Peissenberg	08803
+Ahlen Westf.	02382
+Beuron	07466
+Schoenthal Oberpf.	09978
+Unterpleichfeld	09367
+Leun	06473
+Erbach Donau	07305
+Herdecke	02330
+Kreischa	035206
+Gusborn	05865
+Muenster-Nienberge	02533
+Winsen-Meissendorf	05056
+Rottenburg-Oberroning	08785
+Werbach-Gamburg	09348
+Sayda	037365
+Bergen-Suelze	05054
+Heiligengrabe	033962
+Schoenborn	035326
+Rathenow	03385
+Neukloster	038422
+Schwarmstedt	05071
+Mechernich-Satzvey	02256
+Gefrees	09254
+Colmberg	09803
+Spremberg	03563
+Rehau	09283
+Rolofshagen	038325
+Reichenberg	033437
+Luhe-Wildenau	09607
+Kehl-Goldscheuer	07854
+Schieder-Schwalenberg	05282
+Sobernheim	06751
+Lieberose	033671
+Stolberg (Harz)	034654
+Xanten-Marienbaum	02804
+Kyllburg	06563
+Gransee	03306
+Lauscha	036702
+Celle	05141
+Lollar	06406
+Bendingbostel	04237
+Blunk	04557
+Parchim	03871
+Haltern-Lippramsdorf	02360
+Stade	04141
+Koblenz	0261
+Giebelstadt	09334
+Frankenthal Pfalz	06233
+Soltau-Emmingen	05190
+Abensberg	09443
+Falkenstein Oberpf.	09462
+Uedem	02825
+Grossalmerode	05604
+Korbach	05631
+Schloss Holte-Stukenbrock	05207
+Oelde-Stromberg	02529
+Blumenthal	033984
+Monschau	02472
+Burglengenfeld	09471
+Geyer	037346
+Buttstaedt	036373
+Ostrau	034600
+Titisee-Neustadt	07651
+Rheinau	07844
+Luebbecke	05741
+Oettingen	09082
+Korntal-Muenchingen	07150
+Steingaden Oberbay.	08862
+Saarburg	06581
+Bad Homburg Vd.Hoehe	06172
+Andernach	02632
+Langenfeld Mittelfr.	09164
+Harburg Schwab.	09003
+Bunde	04953
+Lehrte	05132
+Rieneck	09354
+Weikersheim	07934
+Birstein-Lichenroth	06668
+Gross Ziethen	033364
+Ribnitz-Damgarten	03821
+Baesweiler	02401
+Bodenwoehr	09434
+Grossefehn	04943
+Zolling	08167
+Dormagen	02133
+Vechta-Langfoerden	04447
+Vlotho-Exter	05228
+Ronsberg	08306
+Moosbach b.Vohenstrauss	09656
+Hellenthal-Rescheid	02448
+Steinen Kr.Loerrach	07627
+Ilfeld	036331
+Gatersleben	039482
+Cadolzburg	09103
+Elmenhorst	038327
+Schweinfurt	09721
+Koenigsfeld Oberfr.	09207
+Baumholder	06783
+Scheinfeld	09162
+Scharbeutz-Haffkrug	04563
+Lohkirchen	08637
+Friedland Kr.Goettingen	05504
+Mittenwald	08823
+Perl-Nennig	06866
+Neckargerach	06263
+Wiesen Unterfr.	06096
+Waiblingen	07151
+Merzig-Silwingen	06869
+Empfingen	07485
+Ladelund	04666
+Soemmerda	03634
+Burgwindheim	09551
+Koenigsberg i.Bay.	09525
+Burgdorf b.Salzgitter	05347
+Bederkesa	04745
+Norderney	04932
+Noerdlingen	09081
+Hofheim a.Taunus	06192
+Staufen Breisgau	07633
+Hamm Sieg	02682
+Ettlingen	07243
+Walderbach	09464
+Fassberg	05055
+Pausin	033231
+Moembris	06029
+Overath	02206
+Welver	02384
+Pocking	08531
+Nienburg	034721
+Wittingen-Ohrdorf	05839
+Stassfurt	03925
+Schwanebeck	039424
+Diesbar-Seusslitz	035267
+Prerow, Ostseebad	038233
+Baden-Baden	07221
+Lichte	036701
+Hueckeswagen	02192
+Esens	04971
+Raben Steinfeld	03860
+Wolfenbuettel	05331
+Amorbach	09373
+Stadtoldendorf	05532
+Estorf Kr.Stade	04140
+Mainhardt	07903
+Lehre-Wendhausen	05309
+Gemuenden Felda	06634
+Ueckermuende	039771
+Markt Berolzheim	09146
+Moringen-Fredelsloh	05555
+Meinersen	05372
+Meissen	03521
+Iserlohn-Letmathe	02374
+Vilshofen-Sandbach	08548
+Breuberg	06165
+Staven	039608
+Waldboeckelheim	06758
+Weiterstadt	06150
+Pleiskirchen	08635
+Aachen-Kornelimuenster	02408
+Spraitbach	07176
+Volkmarsen	05693
+Langenwetzendorf	036625
+Arnstein Unterfr.	09363
+Affinghausen	04247
+Cranzahl	037342
+Pennigsehl	05028
+Bad Aibling	08061
+Gyhum	04286
+Laer Kr.Steinfurt	02554
+Neuhaus-Schierschnitz	036764
+Juebek	04625
+Monheim Schwab.	09091
+Waal Schwab.	08246
+Appenweier	07805
+Drense	039857
+Neuenhagen	03342
+Legau	08330
+Isenbuettel	05374
+Ebeleben	036020
+Muenchehofe	033760
+Untergroeningen	07975
+Magdeburg	0391
+Soegel	05952
+Jemgum-Ditzum	04902
+Neddenaverbergen	04238
+Altenbrak	039456
+Tussenhausen	08268
+Beeskow	03366
+Uedersdorf	06596
+Frensdorf	09502
+Spaichingen	07424
+Wieren	05825
+Hohenstein Wuertt.	07387
+Osterwieck	039421
+Bad Salzuflen	05222
+Schoenberg (Meckl.)	038828
+Bad Koenigshofen	09761
+Uffing a.Staffelsee	08846
+Neenstetten	07340
+Satow	038295
+Hallenberg	02984
+Hitzacker-Wietzetze	05858
+Alerheim	09085
+Bad Endorf	08053
+Ichenhausen	08223
+Obertrubach	09245
+Unterthingau	08377
+Affing	08207
+Sendenhorst	02526
+Uebersee	08642
+Kreuzau	02422
+Ortenberg Hess.	06046
+Aindling	08237
+Handewitt	04608
+Osterholz-Scharmbeck	04791
+Neu Darchau	05853
+Crailsheim	07951
+Daberkow	039991
+Beverungen	05273
+Leutkirch i.Allgaeu	07561
+Schafflund	04639
+Schwarzenfeld	09435
+Lunzenau	037383
+Frankenberg Eder	06451
+Fronhausen	06426
+Gnarrenburg-Klenkendorf	04764
+Leinzell	07175
+Grossenbrode	04367
+Jerxheim	05354
+Wittorf Kr.Lueneburg	04133
+Hopsten-Schale	05457
+Frauenau	09926
+Wietmarschen	05925
+Helgoland	04725
+Stadthagen	05721
+Gartz	033332
+Amelinghausen	04132
+Dolle	039364
+Bergen	037463
+Koenigsbronn	07328
+Rheinbach	02226
+Jade	04454
+Erxleben	039052
+Pellworm	04844
+Moerlenbach	06209
+Cuxhaven	04721
+Flammersfeld	02685
+Beenz	039856
+Stepenitz	033969
+Hengersberg	09901
+St.Andreasberg	05582
+Breitenbrunn Oberpf.	09495
+Calau	03541
+Losheim Saar	06872
+Muenster-Roxel	02534
+Weilheim Oberbay.	0881
+Laboe	04343
+Trittau	04154
+Eichenbuehl-Riedern	09378
+Voltlage	05467
+Hanau	06181
+Annaberg-Buchholz	03733
+Dirmstein	06238
+Wulfersdorf	033963
+Immendingen	07462
+Heimbuchenthal	06092
+Hinterhermsdorf	035974
+Estenfeld	09305
+Friedrichshafen	07541
+Pfatter	09481
+Vilgertshofen	08194
+Ellrich	036332
+Wiedensahl	05726
+Lembruch	05447
+Bernau Baden	07675
+Wingst	04778
+Salzwedel	03901
+Oberweissbach	036705
+Linz a.Rhein	02644
+Laasow	035436
+Haehnichen	035894
+Quakenbrueck	05431
+Neu Luebbenau	035473
+Dietfurt a.d.Altmuehl	08464
+Falkenberg Niederbay.	08727
+Beerfelde	033637
+Wabern Hess.	05683
+Hude-Wuesting	04484
+Hennef-Uckerath	02248
+Hauzenberg	08586
+Wehretal	05658
+Hamm-Uentrop	02388
+Herrnhut	035873
+Gross Roge	039978
+Groeningen	039403
+Blankenheim	034659
+Gutach-Bleibach	07685
+Freihung	09646
+Ennigerloh	02524
+Bestensee	033763
+Walddrehna	035455
+Wolfsburg-Vorsfelde	05363
+Neuburg a.d.Donau	08431
+Mahlow	03379
+Neuerburg Eifel	06564
+Warburg-Scherfede	05642
+Bad Wilsnack	038791
+Gronau Leine	05182
+Plauen	03741
+Langeness Hallig	04684
+Kluetz	038825
+Mellingen	036453
+Paderborn	05251
+Buedesheim Eifel	06558
+Herbertingen	07586
+Mohrkirch	04646
+Dahlen(Sachs.)	034361
+Lehre-Essenrode	05301
+Becherbach b.Kirn	06757
+Regenstauf	09402
+Konz	06501
+Weidenbach b.Gerolstein	06599
+Gross Godems	038725
+Haunetal	06673
+Wilhermsdorf	09102
+Glienke	039606
+Rohr	036844
+Hayn	034658
+Hoexter	05271
+Herne	02323
+Wilhelmsdorf Wuertt.	07503
+Grossbundenbach	06337
+Brackenheim	07135
+Hoppenrade	038451
+Mainleus	09229
+Raisdorf	04307
+Ellwangen Jagst	07961
+Bebra	06622
+Oberwesel	06744
+Nagold	07452
+Neuboerger	04966
+Hambergen	04793
+Moeringen	039329
+Augsburg	0821
+Rheinstetten	07242
+Beckum-Neubeckum	02525
+Rantrum	04848
+Holthusen	03865
+Werbach-Wenkheim	09349
+Albisheim Pfrimm	06355
+Bredereiche	033087
+Dueren	02421
+Wangels	04382
+Bad Duerkheim	06322
+Preussisch Stroehen	05776
+Ruesselsheim	06142
+Wendisch Rietz	033679
+Wallenfels	09262
+Hoyerswerda	03571
+Eschenbach Oberpf.	09645
+Benneckenstein	039457
+Stockelsdorf-Curau	04505
+Gadebusch	03886
+Frontenhausen	08732
+Uetze-Haenigsen	05147
+Olzheim	06552
+Billigheim-Ingenheim	06349
+Kell	06589
+Meine	05304
+Soltendieck	05874
+Grafenwoehr	09641
+Presseck	09222
+Remagen	02642
+Kusey	039005
+Uhlstaedt	036742
+Roetgen Eifel	02471
+Kierspe-Roensahl	02269
+Unna-Hemmerde	02308
+Laupheim	07392
+Juelich	02461
+Simmersfeld	07484
+Gross Rosenburg	039294
+Hallschlag	06557
+Soltau	05191
+Worpswede-Ostersode	04794
+Hohenwarth b.Koetzting	09946
+Schwarzenbach a.Wald	09289
+Bechenheim	06736
+Hinte	04925
+Zaberfeld	07046
+Bennin	038843
+Burgthann	09183
+Ankershagen	039921
+Lindhorst b.Stadthagen	05725
+Wittmund	04462
+Velden Vils	08742
+Westerland	04651
+Grossaitingen	08203
+Wallhausen Nahe	06706
+Vilseck	09662
+Graefenthal	036703
+Mesekenhagen	038351
+Breckerfeld	02338
+Aglasterhausen	06262
+Finnentrop-Roenkhausen	02395
+Gnarrenburg	04763
+Eddelak	04855
+Goerzig	034975
+Pfronten	08363
+Frankfurt a.Main	069
+Teutschenthal	034601
+Waldkappel	05656
+Bibertal	08226
+Koenigsbrueck	035795
+Holle b.Hildesheim	05062
+Wertheim	09342
+Schoeppenstedt	05332
+Sassenberg	02583
+Felsberg Hess.	05662
+Frauenstein	037326
+Friesenried	08347
+Regensburg	0941
+Broderstorf	038204
+Bad Harzburg	05322
+Muenchen	089
+Hipstedt	04768
+Meinersdorf	03721
+Pretzier	039037
+Lam Oberpf.	09943
+Talheim Kr.Tuttlingen	07464
+Cottbus	0355
+Kemberg	034921
+Kremmen	033055
+Leussow	038754
+Leichlingen	02175
+Noerten-Hardenberg	05503
+Egestorf Nordheide	04175
+Tessin	038205
+Neukirch b.Tettnang	07528
+Kleinwelka	035935
+Mettlach-Tuensdorf	06868
+Weischlitz	037436
+Hassmersheim	06266
+Weidenbach Mittelfr.	09826
+Redekin	039341
+Schapbach	07839
+Stuetzerbach	036784
+Malsch	07246
+Oberammergau	08822
+Neuenmarkt	09227
+Roth Mittelfr.	09171
+Drebber	05445
+Dingelstaedt (Eichsfeld)	036075
+Wusterhausen	033979
+Osterhofen	09932
+Stralsund	03831
+Wolfen	03494
+Gutenfuerst	037433
+Bad Laasphe	02752
+Leer Ostfriesl	0491
+Tostedt	04182
+Nersingen	07308
+Steinburg Kr.Stormarn	04534
+Rottenburg a.d.Laaber	08781
+Sandau	039383
+Muehlberg (Elbe)	035342
+Tuntenhausen	08067
+Haseldorf	04129
+Pfinztal	07240
+Horgenzell	07504
+Wittichenau	035725
+Feldberg	039831
+Ramsau b.Berchtesgaden	08657
+Dippoldiswalde	03504
+Betzdorf	02741
+Frielendorf	05684
+Geeste	05907
+Albstadt-Ebingen	07431
+Kreiensen	05563
+Wiehl	02262
+Floersheim a.Main	06145
+Haiterbach	07456
+Mendig	02652
+Vettweiss	02424
+Velpke	05364
+Pfarrkirchen Niederbay.	08561
+Nassenfels	08424
+Stolzenau	05761
+Kirchdorf i.Wald	09928
+Schleife	035773
+Karlsbad	07202
+Bottrop-Kirchhellen	02045
+Isselburg	02874
+Muelheim Mosel	06534
+Auma	036626
+Schleswig	04621
+Lampertheim-Huettenfeld	06256
+Georgenthal (Thuer.)	036253
+Neuenstadt a.Kocher	07139
+Holzengel	036379
+Brokstedt	04324
+Diedrichshagen	038822
+Simmersdorf	035695
+Grossroehrsdorf	035952
+Bautzen	03591
+Fahrenbach Baden	06267
+Diepenau	05775
+Langen-Neuenwalde	04707
+Hindelang	08324
+Drolshagen-Bleche	02763
+Lebus	033604
+Grebbin	038720
+Claussnitz	037202
+Willich	02154
+Zemmer	06580
+Voehrenbach	07727
+Walsrode-Westenholz	05167
+Schoenewalde	035362
+Ampfing	08636
+Schluesselfeld-Aschbach	09555
+Schwarze Pumpe	03564
+Herzfelde	033434
+Kade	039347
+Lathen	05933
+Straupitz	035475
+Graefendorf	09357
+Kirchheim Unter Teck	07021
+Weichensdorf	033673
+Schwenningen Baden	07579
+Golzow	033472
+Reinholterode	036085
+Wallstawe	039033
+Epfendorf	07404
+Falkenhagen	033603
+Waldheim (Sachs.)	034327
+Guxhagen	05665
+Bockenem	05067
+Bad Schmiedeberg	034925
+Sonsbeck	02838
+Rehburg-Loccum	05766
+Schwarme	04258
+Wildpoldsried	08304
+Sulzburg	07634
+Sontra	05653
+Eisenberg Pfalz	06351
+Frankleben	034637
+Kempfeld	06786
+Pegnitz	09241
+Landstuhl	06371
+Harsewinkel-Greffen	02588
+Spornitz	038726
+Heyda	035266
+Ruethen	02952
+Muelheim a.d.Ruhr	0208
+Heusenstamm	06104
+Wieda	05586
+Mittweida	03727
+Schweinsberg Hessen	06429
+Reichshof-Bruechermuehle	02296
+Langenfeld Rheinl.	02173
+Wutoeschingen	07746
+Rauschenberg Hess.	06425
+Putbus	038301
+Tecklenburg	05482
+Rechenberg-Bienenmuehle	037327
+Lengerich Emsl	05904
+Thum	037297
+Wathlingen	05144
+Eilsleben	039409
+Schmalkalden	03683
+Finnentrop-Serkenrode	02724
+Lauenburg Elbe	04153
+Offenbach a.d.Queich	06348
+Oberviechtach-Pullenried	09677
+Rangsdorf	033708
+Wittighausen	09347
+Grafrath	08144
+Grenzach-Wyhlen	07624
+Siegenburg	09444
+St.Johann Wuertt.	07122
+Lunden	04882
+Apensen	04167
+Cochem	02671
+Oberscheinfeld	09167
+Altengrabow	039225
+Iffezheim	07229
+Kindelbrueck	036375
+Hopsten	05458
+Maerkisch-Buchholz	033765
+Rheinberg-Orsoy	02844
+Embsen Kr.Lueneburg	04134
+Bad Oeynhausen	05731
+Inning a.Ammersee	08143
+Bellingen	039365
+Stahnsdorf	03329
+Mallersdorf-Pfaffenberg	08772
+Kall	02441
+Wasserburg a.Inn	08071
+Staebelow	038207
+Freudenburg	06582
+Hartenstein	037605
+Leinefelde	03605
+Unterschneidheim	07966
+Reuden	034424
+Kirchzarten	07661
+Collenberg	09376
+Krummhoern-Pewsum	04923
+Pfronstetten	07388
+Chorin	033366
+Zeltingen-Rachtig	06532
+Odisheim	04756
+Buttenwiesen	08274
+Oberrot b.Gaildorf	07977
+Herzogenrath	02406
+Loitsche	039208
+Wildeck-Obersuhl	06626
+Neuhaus Oste	04752
+Woelsickendorf	033454
+Fleckeby	04354
+Rottenburg a.Neckar	07472
+Sottrum Kr.Rotenburg	04264
+Wirdum	04920
+Langenselbold	06184
+Willebadessen	05646
+Kinding	08467
+Griesbach i.Rottal	08532
+Falkenstein	03745
+Steinach	036762
+Twistringen-Heiligenloh	04246
+Ingelheim a.Rhein	06132
+Burscheid Rheinl.	02174
+Sauensiek	04169
+Nauendorf	034603
+Geltendorf	08193
+Engden	05926
+Schotten Hess.	06044
+Wechselburg	037384
+Hoechst i.Odenw.	06163
+Dellfeld	06336
+Kirchardt	07266
+Muensing Starnberger See	08177
+Pfreimd	09606
+Hemer	02372
+Ringstedt	04708
+Bacharach	06743
+Goermin	039992
+Biedenkopf	06461
+Schluechtern	06661
+Brandenburg	03381
+St.Ingbert	06894
+Schiedungen	036337
+Reinsberg	037324
+Friedrichsdorf Taunus	06175
+Ziegendorf	038721
+Mainburg	08751
+Bad Lauterberg i.Harz	05524
+Hennstedt Dithm.	04836
+Kirchheimbolanden	06352
+Coburg	09561
+Burg Stargard	039603
+Memmingen	08331
+Uthmoeden	039058
+Owschlag	04336
+Au b.Bad Aibling	08064
+Oelde	02522
+Beuren Hochwald	06586
+Doebern (Nl.)	035600
+Raegelin	033924
+Riedbach	09526
+Zusmarshausen	08291
+Teichwolframsdorf	036624
+Ehringshausen Dill	06443
+Iden	039390
+Buchen Odenw.	06281
+Messel	06159
+Icking	08178
+Eberbach Baden	06271
+Geisa	036967
+Ockholm	04674
+Merzig	06861
+Gingst	038305
+Gerolsbach	08445
+Wolsfeld	06568
+Martfeld	04255
+Massing	08724
+Seiffen	037362
+Lauenau	05043
+Grosswudicke	033873
+Gaschwitz	034299
+Nieder-Olm	06136
+Bueckeburg	05722
+Greven Westf.	02571
+Neckarsteinach	06229
+Bad Bevensen	05821
+Muehlheim a.Main	06108
+Sprendlingen Rheinhess.	06701
+Neumarkt Oberpf.	09181
+Reetz	038782
+Nittendorf	09404
+Geisenhausen	08743
+Mestlin	038727
+Ihlienworth	04755
+Nennslingen	09147
+Gross Neuendorf	033478
+Bad Muenstereifel	02253
+Delmenhorst	04221
+Wanne-Eickel	02325
+Seligenstadt	06182
+Obermarchtal	07375
+Penzlin	03962
+Theessen	039223
+Ebersburg	06656
+Stammham b.Ingolstadt	08405
+Salzgitter-fingen	05300
+Geiselhoering	09423
+Horb-Altheim	07486
+Schluchsee	07656
+Ahrensboek	04525
+Guesten	039262
+Kitzingen	09321
+Nideggen-Schmidt	02474
+Walsleben	033920
+Wiesmoor-Marcardsmoor	04948
+Laatzen	05102
+Triefenstein	09395
+Stein-Neukirch	02667
+Maroldsweisach	09532
+Oberderdingen	07045
+Rottweil	0741
+Salzhemmendorf	05153
+Wendelstein	09129
+Muehlen Eichsen	038871
+Holtland	04950
+Alsdorf Rheinl.	02404
+Burg	03921
+Rothemuehl	039772
+Schleiden-Gemuend	02444
+Rothenfels Unterfr.	09393
+Kordel	06505
+Winningen	034745
+Samtens	038306
+Mustin	04546
+Windesheim	06707
+Koenigsmoos	08433
+Markdorf	07544
+Picher	038751
+Geestgottberg	039397
+Neuhardenberg	033476
+Gebstedt	036463
+Dockweiler	06595
+Passau	0851
+Malente	04523
+Wittislingen	09076
+Wanna	04757
+Zella-Mehlis	03682
+Hueffenhardt	06268
+Rabenau	06407
+Lauenstein	035054
+Lindstedt	039084
+Vacha	036962
+Langwedel-Etelsen	04235
+Gumtow	033977
+Hilpoltstein	09174
+Prosselsheim	09386
+Wertingen	08272
+Sundern-Altenhellefeld	02934
+Janisroda	034466
+Muenchenbernsdorf	036604
+Prohn	038323
+Tittling	08504
+Annaburg	035385
+Hueckelhoven	02433
+Gesees	09201
+Halver	02353
+Emden	04921
+Jaevenitz	039086
+Aidenbach	08543
+Kronberg i.Taunus	06173
+Oberstdorf	08322
+Langenberg Kr.Guetersloh	05248
+Redefin	038854
+Neukirch (Lausitz)	035951
+Trebatsch	033674
+Reichshof-Eckenhagen	02265
+Muellrose	033606
+Uslar-Volpriehausen	05573
+Geisingen-Leipferdingen	07708
+Emmendingen	07641
+Netphen-Deuz	02737
+Ascheberg Westf.	02593
+Koenigsmoor	04180
+Kerkwitz	035692
+Oelsnitz (Vogtl.)	037421
+Emtinghausen	04295
+Ulm Donau	0731
+Wuennenberg	02953
+Obercunnersdorf	035875
+Luedersdorf (Meckl.)	038821
+Selmsdorf	038823
+Schollene	033879
+Rueckersdorf	035325
+Nideggen	02427
+Coppenbruegge	05156
+Wernberg-Koeblitz	09604
+Ronnenberg	05109
+Ettenstatt	09148
+Pforzheim	07231
+Drangstedt	04704
+Gerzen	08744
+Ostercappeln	05473
+Bettenhausen	036943
+Parey (Elbe)	039349
+Windsbach	09871
+Nordendorf	08273
+Wetter Hess.	06423
+Malchow	039932
+Wittstock (Dosse)	03394
+Garz (Ruegen)	038304
+Hohenmoelsen	034441
+Waldmuenchen	09972
+Stadland-Seefeld	04734
+Polsingen	09093
+Aalen	07361
+Petkus	033745
+Kavelstorf	038208
+Koenigswinter	02223
+Ueberlingen Bodensee	07551
+Weiskirchen Saar	06876
+Borken Hess.	05682
+Fehrbellin	033932
+Burg (Spreew.)	035603
+Haigerloch	07474
+Scharnebeck	04136
+Ellenz-Poltersdorf	02673
+Detmold	05231
+Velgast	038324
+Wietmarschen-Lohne	05908
+Waldbrunn Westerw.	06479
+Groemitz	04562
+Hasselfelde	039459
+Duemmer	03869
+Odernheim a.Glan	06755
+Wormstedt	036464
+Karow	038738
+Suhlendorf	05820
+Lindau (Anh.)	039246
+Stolberg-Gressenich	02409
+Storkow (Mark)	033678
+Unterloquitz	036731
+Sinntal-Altengronau	06665
+Horgau	08294
+Eltville a.Rhein	06123
+Zwenkau	034203
+Hermsdorf (Thuer.)	036601
+Meerane	03764
+Helbra	034772
+Raddestorf	05765
+Rodgau	06106
+Nahrendorf	05855
+Altkalen	039973
+Eisenbach Hochschwarzw	07657
+Bobenheim-Roxheim	06239
+Marbach a.Neckar	07144
+Muenster-Hiltrup	02501
+Wendlingen a.Neckar	07024
+Erfurt	0361
+Eging a.See	08544
+Bremerhaven	0471
+Oderberg	033369
+Otterndorf	04751
+Bad Wildungen	05621
+Rittersgruen	037757
+Seelow	03346
+Rietberg	05244
+Viernheim	06204
+Briesnig	035696
+Gifhorn	05371
+Munster	05192
+Parsau	05368
+Selm	02592
+Hermeskeil	06503
+Werneck	09722
+Friedrichskoog	04854
+Belzig	033841
+Domsuehl	038728
+Muegeln	034362
+Neufahrn b.Freising	08165
+Pfaffenhausen Schwab.	08265
+Bad Zwischenahn	04403
+Halle	0345
+Waltershausen	03622
+Erolzheim	07354
+Wuestheuterode	036087
+Riedenburg	09442
+Bruessow	039742
+Eschenburg	02770
+Burkau	035953
+Erkner	03362
+Neuffen	07025
+Nordenham	04731
+Plau	038735
+Kerken	02833
+Schwittersdorf	034773
+Wandlitz	033397
+Raguhn	034906
+Winterberg-Siedlinghausen	02983
+Sulzberg Allgaeu	08376
+Lilienthal	04298
+Ziemetshausen	08284
+Wurzen	03425
+Nabburg	09433
+Wolfach	07834
+Grebin	04383
+Kalbach Rhoen	09742
+Nortrup	05436
+Freyburg	034464
+Rottenburg-Ergenzingen	07457
+Aub Kr.Wuerzburg	09335
+Baernau	09635
+Wesel-Buederich	02803
+Lich Hess.	06404
+Heldrungen	034673
+Bremervoerde-Bevern	04767
+Zernien	05863
+Golzow	033835
+Gross Duengen	05064
+Hagen-Hohenlimburg	02334
+Altwarp	039773
+Zuelpich	02252
+Buedingen-Eckartshausen	06048
+Niederbobritzsch	037325
+Coelpin	03966
+Graefinau-Angstedt	036785
+Uslar	05571
+Liebenau Kr.Nienburg	05023
+Inden	02465
+Unna	02303
+Salzhemmendorf-Wallensen	05186
+Freudenberg Oberpf.	09627
+Klettwitz	035754
+Stadtlengsfeld	036965
+Luettenmark	038842
+Sassenburg-Grussendorf	05379
+Kleinmachnow	033203
+Meiningen	03693
+Oy-Mittelberg	08366
+Kobern-Gondorf	02607
+Kaiserslautern	0631
+Wanderup	04606
+Klingenberg a.Main	09372
+Coelbe-Schoenstadt	06427
+Goldberg (Meckl.)	038736
+Buschow	033876
+Bad Pyrmont	05281
+Kenzingen	07644
+Gerolzhofen	09382
+Burow	03965
+Kulmbach	09221
+Bessenbach	06095
+Rottleberode	034653
+Ovelgoenne-Grossenmeer	04483
+Wacken	04827
+Waldthurn	09657
+Kropp	04624
+Grevenbroich	02181
+Gross-Umstadt	06078
+Nahe	04535
+Herzberg	033926
+Netphen	02738
+Burg Auf Fehmarn	04371
+Leutershausen	09823
+Graal-Mueritz	038206
+Steinhorst Lauenb.	04536
+Ochtrup	02553
+Kamp-Lintfort	02842
+Oberkirch Baden	07802
+Havetoft	04603
+Neutrebbin	033474
+Gau-Odernheim	06733
+Dinslaken	02064
+Kohren-Sahlis	034344
+Loeffingen	07654
+Lutter a.Barenberge	05383
+Zodel	035820
+Tutzing	08158
+Bad Bergzabern	06343
+Eslohe Sauerl	02973
+Much	02245
+Neudietendorf	036202
+Lichtenfels-Isling	09576
+Luckau	03544
+Fallingbostel	05162
+Stammbach	09256
+Schwanewede	04209
+Heigenbruecken	06020
+Clenze	05844
+Vieselbach	036203
+Kronprinzenkoog	04856
+Manching	08459
+Ruehen	05367
+Oelsnitz (Erzgeb.)	037298
+Scheden	05546
+Auerbach (Vogtl.)	03744
+Dorsten	02362
+Rogaesen	033832
+Goldbeck (Altm.)	039388
+Illschwang	09666
+Palzem	06583
+Karlsruhe	0721
+Hermannsburg	05052
+Gunzenhausen	09831
+Querfurt	034771
+Rosbach Vd.Hoehe	06003
+Loebau	03585
+Ruegland	09828
+Weinsberg	07134
+Haren Ems	05932
+Albstadt-Tailfingen	07432
+Kratzeburg	039822
+Trebbin	033731
+Schmallenberg-Dorlar	02971
+Schoenebeck (Elbe)	03928
+Schoenbrunn	036874
+Bad Berleburg-Aue	02759
+Amerang	08075
+Markt Rettenbach	08392
+Dirlewang	08267
+Husum Nordsee	04841
+Althegnenberg	08202
+Bad Soden a.Taunus	06196
+Schwalenberg	05284
+Bischofsmais	09920
+Stemwede-Wehdem	05773
+Sarzbuettel	04806
+Hochdorf-Assenheim	06231
+Sigmaringen	07571
+Rottershausen	09738
+Kriegsfeld	06358
+Burghaslach	09552
+Buchenberg b.Kempten	08378
+Pechern	035775
+Rosbach-Rodheim	06007
+Freising	08161
+Bohmte-Hunteburg	05475
+Hofbieber	06657
+Muennerstadt	09733
+Zarrentin (Meckl.)	038851
+Montabaur	02602
+Liepe	033362
+Harra	036642
+Boitzenburg	039889
+Westerstede-Ocholt	04409
+Klueden	039056
+Barntrup	05263
+Neuenkirchen Dithm.	04837
+Pattensen	05101
+Heringen Werra	06624
+Angelburg-Goennern	06464
+Kirchhundem	02723
+Bad Schussenried	07583
+Raesfeld	02865
+Stadt Wehlen	035024
+Waakirchen	08021
+Neckarsulm	07132
+Weisweil Breisgau	07646
+Breitenberg Niederbay.	08584
+Neustadt a.d.Waldnaab	09602
+Horsmar	036023
+Moormerland	04954
+Obernburg a.Main	06022
+Angermuende	03331
+Sauldorf	07777
+Unteregg b.Mindelheim	08269
+Eschwege	05651
+Weissenborn-Luederode	036072
+Guesen	039344
+Goessnitz	034493
+Niederkassel	02208
+Ihlow-Riepe	04928
+Glottertal	07684
+Bochum	0234
+Herzlake	05962
+Ottersberg-Posthausen	04297
+Dahme	035451
+Dollenchen	035329
+Klingenthal	037467
+Hamminkeln	02852
+Lichtenau Mittelfr.	09827
+Hellenthal	02482
+Jevenstedt	04337
+Diessen a.Ammersee	08807
+Aichach	08251
+Rakow	038331
+Hoechheim	09764
+Lingen (Ems)	0591
+Erlangen	09131
+Arnstadt	03628
+Gross Warnow	038788
+Zierenberg	05606
+Westensee	04305
+Reutlingen	07121
+Schalksmuehle	02355
+Ober-Hilbersheim	06728
+Ruebenau	037366
+Lauta	035722
+Stamsried	09466
+Kleve Niederrhein	02821
+Paderborn-Schloss Neuhaus	05254
+Wiesbaden	0611
+Seewald	07448
+Ratzeburg	04541
+Freiburg Elbe	04779
+Ebersdorf b.Bremervoerde	04765
+Oberbach Unterfr.	09749
+Premnitz	03386
+Schleiz	03663
+Berge	038785
+Wettrup	05909
+Saal	038223
+Kirchbarkau	04302
+Weibern	02655
+Grossbreitenbach	036781
+Grieben	039362
+Anhausen Kr.Neuwied	02639
+Zenting	09907
+Crivitz	03863
+Birkenfeld Nahe	06782
+Wegenstedt	039059
+Salzgitter	05341
+Schoeningen	05352
+Uchte	05763
+Schwabstedt	04884
+Walting Kr.Eichstaett	08426
+Oldsum	04683
+Teterow	03996
+Gelbensande	038201
+Lossburg	07446
+Deidesheim	06326
+Schuttertal	07826
+Greifswald	03834
+Herdorf	02744
+Ebersbrunn	037607
+Wettin	034607
+Grossharthau	035954
+Neuenhof	036928
+Barssel-Harkebruegge	04497
+Hatten	04482
+Bobingen	08234
+Georgsdorf	05946
+Doerzbach	07937
+Lehrberg	09820
+Rehna	038872
+Lamspringe	05183
+Elxleben	036200
+Suhl	03681
+Drognitz	036737
+Lauchhammer	03574
+Verl	05246
+Kleinau	039399
+Herrstein	06785
+Sanitz	038209
+Huenxe	02858
+Horstedt Kr.Rotenburg	04288
+Kreuztal	02732
+Leutenberg	036734
+Hohenthann	08784
+Emmendorf	05875
+Sundern Sauerl	02933
+Uetze	05173
+Emtmannsberg	09209
+Diepenau-Essern	05777
+Kupferzell	07944
+Nentershausen Hess.	06627
+Oberhausen Rheinl.	0208
+Bernstadt	035874
+Dinklage	04443
+Grebenstein	05674
+Badersleben	039422
+Dissen a.Teutoburger Wald	05421
+Hohenburg	09626
+Muencheberg	033432
+Wuennenberg-Haaren	02957
+Velbert	02051
+Muellheim Baden	07631
+Grafing b.Muenchen	08092
+Ostbevern	02532
+Basdahl	04766
+Bodenburg	05060
+Gangelt	02454
+Rosendahl-Osterwick	02547
+Jabel	039929
+Hornberg Schwarzwaldbahn	07833
+Colbitz	039207
+Graefenberg	09192
+Balje	04753
+Hohenfelde b.Kiel	04385
+Kirchenlamitz	09285
+Buesum	04834
+Stuehlingen	07744
+Bad Salzschlirf	06648
+Luebstorf	03867
+Melle-Wellingholzhausen	05429
+Weissensee	036374
+Holzkirchen Oberbay.	08024
+Gosda	035694
+Wedel Holst.	04103
+Meerbusch-Buederich	02132
+Wettringen Mittelfr.	09869
+Jarmen	039997
+Usingen	06081
+Gossa	034955
+Amrum	04682
+Naila	09282
+Standenbuehl	06357
+Woerrstadt	06732
+Werther Westf.	05203
+Steinau-Ulmbach	06667
+Stendal	03931
+Schierling	09451
+Hedersleben	039481
+Weseram	033831
+Dingolfing	08731
+Gernsheim	06258
+Wittenberg Lutherstadt	03491
+Klein Berssen	05965
+Plochingen	07153
+Fuerstenau b.Bramsche	05901
+Mickhausen	08204
+Tecklenburg-Brochterbeck	05455
+Holzendorf	039853
+Unterluess	05827
+Mohorn	035209
+Blaustein Wuertt.	07304
+Berkenbrueck	033634
+Droennewitz	038853
+Vaihingen a.d.Enz	07042
+Lutzerath	02677
+Ihringen	07668
+Schlossvippach	036371
+Soest	02921
+Waddeweitz	05849
+Floss	09603
+Schmallenberg-Oberkirchen	02975
+Lauschuetz	035693
+Saarbruecken	0681
+Marxzell	07248
+Calvoerde	039051
+Gemuenden a.Main	09351
+Loose b.Eckernfoerde	04358
+Hohenlockstedt	04826
+Kempten Allgaeu	0831
+Westfehmarn	04372
+Konradsreuth	09292
+Friedeburg-Reepsholt	04468
+Germersheim	07274
+Nordrach	07838
+Karben	06039
+Murnau a.Staffelsee	08841
+Bernbeuren	08860
+Schliengen	07635
+Bitburg	06561
+Walkenried	05525
+Laegerdorf	04828
+Selters Taunus	06483
+Schwaigern	07138
+Arendsee  (Altm..)	039384
+Philippsthal Werra	06620
+Balderschwang	08328
+Prenzlau	03984
+Zetel-Neuenburg	04452
+Rothenkirchen (Vogtl.)	037462
+Jakobshagen	039885
+Pfaffenhofen a.d.Roth	07302
+Stromberg Hunsrueck	06724
+Lemgo-Kirchheide	05266
+Hausham	08026
+Waldshut	07751
+Argenbuehl	07566
+Raduhn	038722
+Bad Teinach-Zavelstein	07053
+Burgbernheim	09843
+Lueckstedt	039391
+Kakerbeck	039081
+Baiersbronn-Obertal	07449
+Laar Vechte	05947
+Neuental	06693
+Wolfhagen	05692
+Rahden Westf.	05771
+Petershagen-Windheim	05705
+Drachhausen	035609
+Velburg	09182
+Lehesten (Thueringerw.)	036653
+Bruchsal	07251
+Rackwitz	034294
+Wredenhagen	039925
+Emmelsbuell-Horsbuell	04665
+Guben	03561
+Arenshausen	036081
+Schwanfeld	09384
+Geroda	09747
+Oschatz	03435
+Paehl	08808
+Hornburg Kr.Wolfenbuettel	05334
+Nerchau	034382
+Bad Neustadt	09771
+Spiekeroog	04976
+Thaleischweiler-Froeschen	06334
+Oberkochen	07364
+Unterreichenbach Kr.Calw	07235
+Borkenfriede	039777
+Butjadingen-Stollhamm	04735
+Tewswoos	038759
+Klaeden	039324
+Eichstetten	07663
+Thyrnau	08501
+Lastrup	04472
+Kleinblittersdorf	06805
+Riesa	03525
+Achim b.Bremen	04202
+Bernsdorf (Ol.)	035723
+Wolframs-Eschenbach	09875
+Boerger	05953
+Steinhoefel	033636
+Burgdorf Kr.Hannover	05136
+Oyten	04207
+Schleiden Eifel	02445
+Berlstedt	036452
+Marxheim	09007
+Schiltach	07836
+Cobbelsdorf	034923
+Pocking-Hartkirchen	08538
+Wallerfing	09936
+Eschau	09374
+Freienwill	04602
+Dortmund	0231
+Haidmuehle	08556
+Hohenahr	06446
+Wittmund-Ardorf	04466
+Hoexter-Ottbergen	05275
+Bonn	0228
+Weener	04951
+Lychen	039888
+Hechingen	07471
+Hessdorf Mittelfr.	09135
+Forstern Oberbay.	08124
+Nieheim-Himmighausen	05238
+Stroebeck	039427
+Rueckholz	08369
+Kroeslin	038370
+Goeppingen-Hohenstaufen	07165
+Stadtroda	036428
+Oldenswort	04864
+Beilngries	08461
+Hamdorf b.Rendsburg	04332
+Brieselang	033232
+Schalkau	036766
+Lauda-Koenigshofen	09343
+Klosterfelde	033396
+Wewelsfleth	04829
+Wildberg Wuertt.	07054
+Hohenroda	06676
+Morschen	05664
+Zellingen	09364
+Harbke	039406
+Mammendorf	08145
+Deggenhausertal	07555
+Wulfen	034979
+Dachau	08131
+Kastorf Holst.	04501
+Koenigstein	035021
+Bad Kreuznach	0671
+Faulenrost	039951
+Leiblfing	09427
+Wesenberg	039832
+Sassenburg-Platendorf	05378
+Bergheim Erft	02271
+Oberhof (Thuer.)	036842
+Neumuenster	04321
+Jeber-Bergfrieden	034907
+Berge b.Quakenbrueck	05435
+Furtwangen	07723
+Sehestedt Eider	04357
+Twist	05936
+Schnaittach	09153
+Holzguenz	08393
+Fallingbostel-Dorfmark	05163
+Marschacht	04176
+Uder	036083
+Bad Waldsee	07524
+Balingen	07433
+Mahlsdorf	039032
+Lengerich Westf.	05481
+Nettersheim-Tondorf	02440
+Schoenheide (Erzgeb.)	037755
+Mechernich-Eiserfey	02484
+Vollrathsruhe	039933
+Ilmenau	03677
+Braunschweig	0531
+Quedlinburg	03946
+Schwerte	02304
+Bersenbrueck	05439
+Nohfelden	06852
+Bous	06834
+Landau i.d.Pfalz	06341
+Bad Fuessing-Aigen	08537
+Ahrensburg	04102
+Gablingen	08230
+Hartenstein	09152
+Wyk Auf Foehr	04681
+Essen-Kettwig	02054
+Hilgermissen	04256
+Langenzenn	09101
+Leverkusen-Opladen	02171
+Auetal-Bernsen	05753
+Wanzer	039395
+Burgheim	08432
+Tarnow	038450
+Rastdorf	05956
+Pretzschendorf	035058
+Roseburg	04158
+Lassan	038374
+Bayreuth	0921
+Kipfenberg	08465
+Muensingen	07381
+Ascheberg-Herbern	02599
+Emsdetten	02572
+Schiffdorf-Geestenseth	04749
+Olching	08142
+Mettendorf	06522
+Muensingen-Buttenhausen	07383
+Moellenhagen	039928
+Wilster	04823
+Bischoffen	06444
+Lauingen Donau	09072
+Karbow	038733
+Erlensee	06183
+Nordleda	04758
+Wallerfangen	06837
+Binde	039036
+Schmitten Taunus	06084
+Gangkofen	08722
+Birstein	06054
+Bosau	04527
+Luetjenburg	04381
+Boppard	06742
+Sohland (Spree)	035936
+Clausthal-Zellerfeld	05323
+Osten-Altendorf	04776
+Fellheim	08335
+Sundern-Hachen	02935
+Spiegelberg	07194
+Michendorf	033205
+Tittmoning	08683
+Wittenberge	03877
+Gehren (Thuer.)	036783
+Schoeffengrund	06445
+Wilsdruff	035204
+Zierzow	038752
+Meyenburg (Prign.)	033968
+Grosskorbetha	034446
+Magdala	036454
+Isny-Eisenbach	07569
+Ebern	09531
+Mauth	08557
+Dachsenhausen	06776
+Wissen	02742
+Rudersberg Wuertt.	07183
+Waldbroel	02291
+Eppelsheim	06735
+Ruhland	035752
+Buechen	04155
+Worms-Pfeddersheim	06247
+Uplengen	04956
+Laage	038459
+Kahl a.Main	06188
+Mistelgau	09279
+Uelzen	0581
+Rohrsen Kr.Nienburg	05024
+Obersontheim	07973
+Pyrbaum	09180
+Bissingen-Unterringingen	09008
+Kirchberg a.d.Jagst	07954
+Neuweiler Kr.Calw	07055
+Burladingen-Melchingen	07126
+Ennigerloh-Enniger	02528
+Painten	09499
+Weierbach	06784
+Westerhorn	04127
+Staaken	033236
+Schwanau	07824
+Koethen (Anh.)	03496
+Sternberg	03847
+Markranstaedt	034205
+Aerzen	05154
+Nidda	06043
+Pirna	03501
+Neulingen	07237
+Emmerich	02822
+Grafenhausen Hochschwarzw	07748
+Dietersburg-Baumgarten	08565
+Havelberg	039387
+Welden b.Augsburg	08293
+Herrenberg	07032
+Rheine	05971
+Kasendorf-Azendorf	09220
+Marsberg	02992
+Pfalzfeld	06746
+Hohenziatz	039226
+Hardheim Odenw.	06283
+Pfungstadt	06157
+Schwaan	03844
+Weilrod	06083
+Kutenholz	04762
+Beelen	02586
+Lichtenau Westf.	05295
+Menz	033082
+Bad Nenndorf	05723
+Pleystein	09654
+Billigheim Baden	06265
+Schoenau Niederbay.	08726
+Ensdorf Oberpf.	09624
+Nittenau	09436
+Emmerthal-Boerry	05157
+Weyerbusch	02686
+Dieburg	06071
+Zwoenitz	037754
+Tiefenbach Oberpf.	09673
+Hoevelhof-Espeln	05294
+Petershagen-Friedewalde	05704
+Juechen	02165
+Poppenhausen Unterfr.	09725
+Havixbeck	02507
+Teichel	036743
+Sendenhorst-Albersloh	02535
+Muehltroff	036645
+Gross Kreutz	033207
+Heinsberg-Randerath	02453
+Gross Schoenebeck	033393
+Roedinghausen	05746
+Rosenthal	035033
+Wremen	04705
+Giersleben	034746
+Baisweil	08340
+Bad Abbach	09405
+Sandberg Unterfr.	09701
+Radegast	034978
+Brome	05833
+Frankenstein	037321
+Neuenrade-Affeln	02394
+Petting	08686
+Rehden	05446
+Braunsbedra	034633
+Remptendorf	036640
+Trusetal	036840
+Zossen	03377
+Cuxhaven-Altenbruch	04722
+Remseck a.Neckar	07146
+Nedlitz	039243
+Schrecksbach	06698
+Ganzlin	038737
+Erbendorf	09682
+Rain Niederbay.	09429
+Terpt	035456
+Gars a.Inn	08073
+Sperenberg	033703
+Luedersdorf	033365
+Oederan	037292
+Wildbad i.Schwarzw.	07081
+Muelheim-Kaerlich	02630
+Berne	04406
+Lippstadt-Rebbeke	02948
+Herzebrock-Clarholz	05245
+Lebach	06881
+Donauwoerth	0906
+Semmenstedt	05336
+Bramsche-Engter	05468
+Gemmingen	07267
+Schwelm	02336
+Herleshausen	05654
+Traitsching	09974
+Hochdorf Riss	07355
+Graefentonna	036042
+Nuembrecht	02293
+Wiefelstede-Spohle	04458
+Coppenbruegge-Bisperode	05159
+Schwalmstadt	06691
+Grossbeeren	033701
+Loxstedt-Dedesdorf	04740
+Hirschau Oberpf.	09622
+Altkuenkendorf	033337
+Dargun	039959
+Gross Nemerow	039605
+Drahnsdorf	035453
+Essen Oldb.	05434
+Selters Westerw.	02626
+Rohr Mittelfr.	09876
+Altenburg	03447
+Hochstadt Pfalz	06347
+Borgentreich-Borgholz	05645
+Kirchberg (Sachs.)	037602
+Heiligenhaus	02056
+Langenlonsheim	06704
+Greding	08463
+Jesberg	06695
+Wiesenttal	09196
+Eppendorf	037293
+Sundern-Allendorf	02393
+Janneby	04607
+Mosel	037604
+Schwarzenberg (Erzgeb.)	03774
+Landsberg	034602
+Haldensleben	03904
+Siegsdorf Kr.Traunstein	08662
+Bad Muskau	035771
+Wefensleben	039400
+Hessen	039426
+Burkardroth	09734
+Blomberg Ostfriesl	04977
+Friesoythe-Gehlenberg	04493
+Penzberg	08856
+Bassum-Neubruchhausen	04248
+Hockenheim	06205
+Ohrdruf	03624
+Arnsdorf	035200
+Gunzenhausen-Cronheim	09836
+Bad Honnef	02224
+Wiesenburg (Mark)	033849
+Blomberg-Grossenmarpe	05236
+Bad Rehburg	05037
+Steimbke	05026
+Bayrischzell	08023
+Glandorf	05426
+Velen	02863
+Altenberge Westf.	02505
+Dessau	0340
+Gross Groenau	04509
+Thalfang	06504
+Schondorf a.Ammersee	08192
+Dabringhausen	02193
+Eisenberg	036691
+Ober-Ramstadt	06154
+Goerlitz	03581
+Osterburg	03937
+Schenklengsfeld	06629
+Wolterdingen Schwarzw.	07705
+Seelbach Schutter	07823
+Noervenich	02426
+Dermbach	036964
+Flensburg	0461
+Illingen Saar	06825
+Grossenaspe	04327
+Riedstadt	06158
+Kammerforst	036028
+Ratingen	02102
+Ostrach	07585
+Hallbergmoos	0811
+Kirchseeon	08091
+Langenleuba-Niederhain	034497
+Leitzkau	039241
+Reichenbach (Vogtl.)	03765
+Jachenau	08043
+Creuzburg	036926
+Moeckmuehl	06298
+Ilsede	05172
+Falkenberg (Elster)	035365
+Freden Leine	05184
+Viesecke	038796
+Reichenbach (Ol.)	035828
+Mengerskirchen	06476
+Ludwigsau Hess.	06670
+Mirow	039833
+Bickendorf	06569
+Wegberg	02434
+Jueterbog	03372
+Dobitschen	034495
+Lamerdingen	08248
+Hoerstel	05459
+Ammerbuch	07073
+Halle Westf.	05201
+Elster (Elbe)	035383
+Wachtendonk	02836
+Haag Oberbay.	08072
+Ploen	04522
+Goeppingen	07161
+Langenneufnach	08239
+Roettingen Unterfr.	09338
+Krautheim Jagst	06294
+Nossen	035242
+Glonn Kr.Ebersberg	08093
+Tellingstedt	04838
+Stadtallendorf	06428
+Springe Deister	05041
+Burgpreppach	09534
+Frammersbach	09355
+Saerbeck	02574
+Bagenz	035697
+Bad Tennstedt	036041
+Denkendorf Oberbay.	08466
+Belgern	034224
+Bad Reichenhall	08651
+Warburg	05641
+Sonnefeld	09562
+Altenhof	033363
+Mengkofen	08733
+Bischofswerda	03594
+Mistelgau-Obernsees	09206
+Wiesloch	06222
+Duerrroehrsdorf	035026
+Linum	033927
+Hilchenbach	02733
+Loederburg	039265
+Stolpen	035973
+Schrobenhausen	08252
+Zeitlofs-Detter	09744
+Sommerhausen	09333
+Hagenwerder	035822
+Kirchberg Wald	09927
+Menden-Asbeck	02379
+Todtmoos	07674
+Rhede Westf.	02872
+Pabstorf	039428
+Himmelpforten	04144
+Untersiemau	09565
+Grabow (Meckl.)	038756
+Georgsmarienhuette	05401
+Grossenkneten	04435
+Moosburg a.d.Isar	08761
+Iserlohn	02371
+Wietzen	05022
+Kochel a.See	08851
+Kirtorf	06635
+Elze Leine	05068
+Hemmoor	04771
+Gross Wittensee	04356
+Stockstadt a.Main	06027
+Extertal	05262
+Lohne Oldb.	04442
+Bueren-Harth	02958
+Zahna	034924
+Allershausen Oberbay.	08166
+Wegberg-Roedgen	02436
+Allensbach	07533
+Neukirchen b.Hl Blut	09947
+Bexbach	06826
+Elsendorf Niederbay.	08753
+Aldenhoven b.Juelich	02464
+Weyarn	08020
+Kehl-Bodersweier	07853
+Gollmitz	035435
+Springe-Bennigsen	05045
+Pirmasens	06331
+Bad Sulza	036461
+Albersweiler	06345
+Friesoythe-Markhausen	04496
+Kiel	0431
+Wildeshausen	04431
+Dillenburg	02771
+Weissenburg-Suffersheim	09149
+Lietzen	033470
+Algermissen	05126
+Oberwiesenthal	037348
+Weil Der Stadt	07033
+Herscheid Westf.	02357
+Raetzlingen	05804
+Steinkirchen Kr.Stade	04142
+Neu Wulmstorf-Elstorf	04168
+Hemeringen	05158
+Wrohm	04802
+Oebisfelde	039002
+Barth	038231
+Winterbach, Soonwald	06756
+Buehl Baden	07223
+Panschwitz-Kuckau	035796
+Pfaffendorf	033672
+Cremlingen	05306
+Bremervoerde-Iselersheim	04769
+Fischen i.Allgaeu	08326
+Markt Indersdorf	08136
+Oehringen-Ohrnberg	07948
+Kastl b.Amberg	09625
+Ostercappeln-Venne	05476
+Gerdau	05808
+Sesslach	09569
+Essingen Wuertt.	07365
+Frechen	02234
+Bidingen	08348
+Grosswenkheim	09766
+Simbach Niederbay.	09954
+Puderbach Westerw.	02684
+Trebel	05848
+Suedlohn	02862
+Hornow	035698
+Wippra, Kurort	034775
+Herbstein-Stockhausen	06647
+Meschede	0291
+Oberstaufen-Thalkirchdorf	08325
+Antweiler	02693
+Benshausen	036843
+Vellahn	038848
+Wiesenfelden	09966
+Reichelsheim Wetterau	06035
+Freystadt	09179
+Birresborn	06594
+Hoexter-Ovenhausen	05278
+Gielde	05339
+Herzogenaurach	09132
+Pottenstein	09243
+Hirschhorn Neckar	06272
+Villmar	06474
+Schillingsfuerst	09868
+Langballig	04636
+Leimen Pfalz	06397
+Glauchau	03763
+Philippsreut	08550
+Oelzschau	034347
+Poernbach	08446
+Bakum Kr.Vechta	04446
+Hoehr-Grenzhausen	02624
+Breitenbach a.Herzberg	06675
+Eppstein	06198
+Ganderkesee-Bookholzberg	04223
+Lenzen (Elbe)	038792
+Muehlingen	07775
+Frankenberg	037206
+Reichertshofen Oberbay.	08453
+Thale	03947
+Bad Brueckenau	09741
+Delligsen	05187
+Neuenkirchen b.Bassum	04245
+Neunkirchen a.Brand	09134
+Geringswalde	037382
+Seedorf b.Bad Segeberg	04555
+Hooge Hallig	04849
+Schoellkrippen	06024
+Senzke	033238
+Rottenbach	036739
+Dischingen	07327
+Muendersbach	02680
+Kaarssen	038845
+Friedersdorf	033767
+Ovelgoenne-Strueckhausen	04480
+Mutterstadt	06234
+Ebergoetzen	05507
+Ruppichteroth	02295
+Saalfeld (Saale)	03671
+Gross Saerchen	035726
+Ravenstein Baden	06297
+Freilassing	08654
+Koenigs Wusterhausen	03375
+Stechow	033874
+Eutin	04521
+Muenchweiler a.d.Rodalb	06395
+Eschershausen a.d.Lenne	05534
+Taufkirchen Vils	08084
+Trostberg	08621
+Hinterweidenthal	06396
+Pulheim	02238
+Neufahrn Niederbay.	08773
+Perl	06867
+Hergensweiler	08388
+Heroldstatt	07389
+Eberhardzell-Fueramos	07358
+Birkenwerder	03303
+Bad Berleburg	02751
+Emstek	04473
+Ense	02938
+Uttenweiler	07374
+Bocholt	02871
+Freudenstadt	07441
+Schwabach	09122
+Naunhof	034293
+Suedbrookmerland	04942
+Mamming	09955
+Schwabhausen b.Dachau	08138
+Edewecht	04405
+Roedental	09563
+Heimbach Eifel	02446
+Loecknitz	039754
+Werder (Havel)	03327
+Wessling	08153
+Jesteburg	04183
+Prischwitz	035937
+Braunfels	06442
+Carlsberg Pfalz	06356
+Norden	04931
+Neustadt i.Holst.	04561
+Radevormwald	02195
+Grassau	08641
+Dorum	04742
+Biberach a.d.Riss	07351
+Ossmannstedt	036462
+Duisburg-Homberg	02066
+Fuerth Odenw.	06253
+Neulewin	033452
+Rottendorf Unterfr.	09302
+Bad Rappenau	07264
+Roethenbach Allgaeu	08384
+Langerwehe	02423
+Immenstadt i.Allgaeu	08323
+Schoeneck Hess.	06187
+Mettlach-Orscholz	06865
+Burgbrohl	02636
+St.Englmar	09965
+Wallduern-Rippberg	06286
+Daenischenhagen	04349
+Heilsbronn	09872
+Oberneukirchen	08630
+Hillesheim Eifel	06593
+Lauterecken	06382
+Rees-Haldern	02850
+Illmensee	07558
+Gosheim	07426
+Erftstadt	02235
+Welsleben	039296
+Herrischried	07764
+Polch	02654
+Aarbergen	06120
+Schoenkirchen	04348
+Groebers	034605
+Seitschen	035930
+Geldern	02831
+Malsch-Voelkersbach	07204
+Sielenbach	08258
+Markt Einersheim	09326
+Eichenbarleben	039206
+Langelsheim	05326
+Alsleben	034692
+Casekow	033331
+Wietzendorf	05196
+Hankensbuettel	05832
+Borken Westf.	02861
+Lippstadt	02941
+Bartensleben	039050
+Kirchhain	06422
+Ebermannstadt	09194
+Hayingen	07386
+St.Wendel	06851
+Arzberg	034222
+Hintersee	039776
+Kroppach	02688
+Werdohl	02392
+Letschin	033475
+Ehrenhain	034494
+Cappeln Oldb.	04478
+Tettau	09269
+Syke	04242
+Hosena	035756
+Ludwigsstadt	09263
+Damp	04352
+Soest-Ostoennen	02928
+Garbsen	05131
+Gruenenbach Allgaeu	08383
+Ludwigslust	03874
+Harsum	05127
+Bassum	04241
+Walsrode	05161
+Schafstedt	04805
+Peitz	035601
+Sontheim a.d.Brenz	07325
+Hardegsen	05505
+Motten	09748
+Rentwertshausen	036944
+Soltau-Frielingen	05197
+Weissenhorn	07309
+Neuenstein Wuertt.	07942
+Bremen	0421
+Brilon-Alme	02964
+Oberdachstetten	09845
+Seeg	08364
+Barby	039298
+Bad Bertrich	02674
+Koenigsfeld Eifel	02646
+Bad Ems	02603
+Leutkirch-Friesenhofen	07567
+Immenhausen Hess.	05673
+Schoenberg Niederbay.	08554
+Friesoythe	04491
+Altoetting	08671
+Woebbelin	038753
+Bad Rippoldsau	07440
+Rethem Aller	05165
+Hettstedt	03476
+Moensheim	07044
+Baerenklau	035691
+Droyssig	034425
+Forbach-Hundsbach	07220
+Wenden Biggetal	02762
+Reichenau Baden	07534
+Breitbrunn a.Chiemsee	08054
+Geiselwind	09556
+Landsberg a.Lech	08191
+Edemissen-Abbensen	05177
+Beesten	05905
+Altmannstein-Pondorf	08468
+Jever	04461
+Fuerstenfeldbruck	08141
+Hangelsberg	033632
+Rietschen	035772
+Ottenstein Niedersachs	05286
+Langenhorn	04672
+Feldkirchen Niederbay.	09420
+Versmold	05423
+Ergoldsbach	08771
+Guenzburg	08221
+Zetel	04453
+Muehlhausen Oberpf.	09185
+Hassfurt	09521
+Dannenwalde	033975
+Schweigen-Rechtenbach	06342
+Wallendorf	034639
+Ahlerstedt	04166
+Marktoberdorf	08342
+Schoenwalde a.Bungsberg	04528
+Fremdingen	09086
+Sprakensehl	05837
+Kallmuenz	09473
+Drensteinfurt	02508
+Finowfurt	03335
+Luedenscheid	02351
+Bad Soden-Salmuenster	06056
+Katzenelnbogen	06486
+Bohmte	05471
+Wardenburg	04407
+Buelkau	04754
+Liepen	039721
+Weissenstadt	09253
+Jade-Schweiburg	04455
+Kirchrarbach	02979
+Bergisch Gladbach	02202
+Tangermuende	039322
+Schoenberg Holst.	04344
+Herzberg (Elster)	03535
+Pommritz	035939
+Arolsen-Landau	05696
+Schwarzenbach a.d.Saale	09284
+Bad Duerrheim	07726
+Moos Niederbay.	09938
+Bad Herrenalb	07083
+Sulzemoos	08135
+Grammendorf	038334
+Heiden Kr.Borken	02867
+Geroldshausen Unterfr.	09366
+Schiltberg	08259
+Emstal	05624
+Wesel-Bislich	02859
+Hohenpriessnitz	034242
+Toepchin	033769
+Mechernich	02443
+Klingenberg	035202
+Spantekow	039727
+Adelshofen	09865
+Erkelenz	02431
+Gutengermendorf	033084
+Rossdorf	036968
+Grosswechsungen	036335
+Kelkheim Taunus	06195
+Schwetzingen	06202
+Ratekau	04504
+Konstanz	07531
+Deutschneudorf	037368
+Bad Lausick	034345
+Stockach	07771
+Klanxbuell	04668
+Scheessel	04263
+Kamp-Bornhofen	06773
+Guehlen Glienicke	033929
+Spreenhagen	033633
+Werl	02922
+Christiansholm	04339
+Idstein	06126
+Adorf (Vogtl.)	037423
+Mitwitz	09266
+Priborn	039923
+Goldbach	036255
+Kahla (Thuer.)	036424
+Wadersloh	02523
+Gerolstein	06591
+Irrhausen	06550
+Rhauderfehn	04952
+Quickborn Kr.Pinneberg	04106
+Mettingen Westf.	05452
+Jatznick	039741
+Neunkirchen Siegerl.	02735
+Guelze	038844
+Winterberg-Niedersfeld	02985
+Gersfeld Rhoen	06654
+Bogen Niederbay.	09422
+Neukalen	039956
+Rehfelde	033435
+Muenden Niedersachs	05541
+Neuhaus a.d.Pegnitz	09156
+Eisenach	03691
+Niemberg	034604
+Aue (Sachs.)	03771
+Horhausen Westerw.	02687
+Schashagen	04564
+Aying	08095
+Ochsenhausen	07352
+Rothenklempenow	039744
+Perlesreut	08555
+Teistungen	036071
+Neugersdorf (Sachs.)	03586
+Neuhausen Auf Den Fildern	07158
+Neukirchen-Vluyn	02845
+Oberlichtenau	037208
+Lahr Schwarzw.	07821
+Steinhoering	08094
+Altena Westf.	02352
+Voehl	05635
+Alsenz	06362
+St.Georgen i.Schwarzw.	07724
+Wittlich	06571
+Trebnitz	033477
+Isselburg-Werth	02873
+Zapfendorf	09547
+Gaggenau	07225
+Carpin	039821
+Olsberg	02962
+Gernrode (Harz)	039485
+Kaulsdorf	036733
+Heideck	09177
+Tannenbergsthal	037465
+Hergatz	08385
+Gruensfeld	09346
+Grainet	08585
+Eslohe-Reiste	02978
+Traunreut	08669
+Bernitt	038464
+Flachslanden	09829
+Langen Hess.	06103
+Stollberg (Erzgeb.)	037296
+Suederluegum	04663
+Adelsheim	06291
+Marktbreit	09332
+Regis-Breitingen	034343
+Gessertshausen	08238
+Bad Doberan	038203
+Wuensdorf	033702
+Loeningen	05432
+Welzheim	07182
+Luegde-Rischenau	05283
+Huerth Rheinl.	02233
+Baruth  (Mark)	033704
+Dallmin	038783
+Hofkirchen Bay.	08545
+Rosenthal Hess.	06458
+Berlin	030
+Grossostheim	06026
+Harpstedt	04244
+Marktoffingen	09087
+Carlow	038873
+Geisingen Baden	07704
+Ringgau	05659
+Nauort	02601
+Moegglingen	07174
+Lonsee	07336
+Klitten	035895
+Raben	033848
+Hochspeyer	06305
+Greiffenberg	033334
+Roennebeck	039392
+Hoersingen	039055
+Kunreuth	09199
+Enger Westf.	05224
+Proedel	039242
+Schwaebisch Hall	0791
+Dorfen Stadt	08081
+Ronneburg	036602
+Tuessling	08633
+Muenstertal Schwarzw.	07636
+Veringenstadt	07577
+Namborn	06857
+Weitnau	08375
+Iphofen	09323
+Esterwegen	05955
+Woerth a.d.Isar	08702
+Waldkirch Breisgau	07681
+Waghaeusel	07254
+Kirchlauter	09536
+Diez	06432
+Esselbach	09394
+Raetzlingen	039057
+Wischhafen	04770
+Wesselburen	04833
+Torgau	03421
+Rodershausen	06524
+Breisach a.Rhein	07667
+Balve	02375
+Seesen	05381
+Naumburg	03445
+Tantow	033333
+Wuerselen	02405
+Cunewalde	035877
+Steinfurt-Borghorst	02552
+Voelklingen-Lauterbach	06802
+Gotha	03621
+Schoenwalde	035474
+Schmelz Saar	06887
+Joachimsthal	033361
+Oehningen	07735
+Wartenberg Oberbay.	08762
+Achterwehr	04340
+Wurzbach	036652
+Battenberg Eder	06452
+Neukirchen Knuell	06694
+Grossberndten	036330
+Geeste-Gross Hesepe	05937
+Velten	03304
+Gaimersheim	08458
+Attenkirchen	08168
+Maxdorf	06237
+Hersbruck	09151
+Achern	07841
+Windeck Sieg	02292
+Luetzen	034444
+Wildflecken	09745
+Vaterstetten	08106
+Simonswald	07683
+Wendeburg	05303
+Ahorn Baden	06296
+Helmstedt	05351
+Simmelsdorf	09155
+Glueckstadt	04124
+Trochtelfingen Hohenz	07124
+Miltzow	038328
+Willstaett	07852
+Mintraching	09406
+Vilsbiburg	08741
+Mudau	06284
+Penig	037381
+Landscheid	06575
+Loewenstein Wuertt.	07130
+Rohr Niederbay.	08783
+Neukirchen b.Niebuell	04664
+Altlandsberg	033438
+Schladen	05335
+Beilstein Wuertt.	07062
+Preussisch Oldendorf	05742
+Ruderting	08509
+Lauterbach Hess.	06641
+Euerdorf	09704
+Ahnatal	05609
+Froendenberg-Langschede	02378
+Renchen	07843
+Meuselwitz	03448
+Dresden	0351
+Hofheim-Wallau	06122
+Wasungen	036941
+Kleeth	039602
+Torgelow	03976
+Reichelsheim Odenw.	06164
+Treuenbrietzen	033748
+Neuenkirchen-Voerden	05495
+Wessobrunn	08809
+Falkenthal	033088
+Steinsdorf	033657
+Rothenburg Ob Der Tauber	09861
+Duelmen-Rorup	02548
+Bodnegg	07520
+Muenchberg	09251
+Breidenbach b.Biedenkopf	06465
+Obermassfeld	036949
+Himmelpfort	033089
+Bokhorst	04394
+Varrel b.Sulingen	04274
+Moeser	039222
+Dollart	04959
+Leonberg Wuertt.	07152
+Laufach	06093
+Crottendorf	037344
+Kappelrodeck	07842
+Heiligenhafen	04362
+Butzow	033836
+Krackow	039746
+Butjadingen-Tossens	04736
+Marxen Auetal	04185
+Sinsheim-Hilsbach	07260
+Leck	04662
+Zwickau	0375
+Frankenau Hess.	06455
+Adelebsen	05506
+Gerbstedt	034783
+Suederbrarup	04641
+Reischach Kr.Altoetting	08670
+Amberg Oberpf.	09621
+Saterland	04492
+Bad Sassendorf	02927
+Geislingen a.d.Steige	07331
+Gueterglueck	039247
+Nussbach Pfalz	06364
+Grebenau	06646
+Bruchmuehlen Westf.	05226
+Espelkamp	05772
+Hitzacker	05862
+Volkenshagen	038202
+Proetzel	033436
+Herzsprung	033965
+Burgwedel-Fuhrberg	05135
+Bad Rappenau-Bonfeld	07066
+Maehring	09639
+Marktredwitz	09231
+Stuelpe	033733
+Braunsbach	07906
+Koerperich	06566
+Lienen-Kattenvenne	05484
+Homburg-Einoed	06848
+Krempe	04824
+Dahme	04364
+Kotelow	039607
+Winterberg Westf.	02981
+Gustaevel	038486
+Kalefeld	05553
+Wolmirstedt	039201
+Bielefeld	0521
+Hatzfeld Eder	06467
+Holsthum	06523
+Treffurt	036923
+Wienhausen	05149
+Doerpen	04963
+Bingen a.Rhein	06721
+Eckental	09126
+Uelsen	05942
+Saterland-Ramsloh	04498
+Lindau Harz	05556
+Weilburg	06471
+Falkenberg Oberpf.	09637
+Wankendorf	04326
+Tengen	07736
+Felgentreu	033734
+Sonthofen	08321
+Ibbenbueren	05451
+Wallhausen Wuertt.	07955
+Wunstorf	05031
+Boeklund	04623
+Radbruch	04178
+Birkenfeld b.Wuerzburg	09398
+Dasing	08205
+Elsterberg	036621
+Seehausen (Boerde)	039407
+Neustadt (Dosse)	033970
+Orlamuende	036423
+Freiberg (Sachs.)	03731
+Voelklingen	06898
+Schefflenz	06293
+Nordhausen	03631
+Stemwede-Levern	05745
+Wahrenholz	05835
+Bad Mergentheim	07931
+Morbach Hunsrueck	06533
+Grefrath b.Krefeld	02158
+Kroegis	035244
+Triebes	036622
+Anklam	03971
+Baerenstein	037347
+Lorch Wuertt.	07172
+Isen	08083
+Oetzen	05805
+Darmstadt	06151
+Paderborn-Dahl	05293
+Horb a.Neckar	07451
+Fretzdorf	033964
+Idar-Oberstein	06781
+Goettingen	0551
+Butjadingen-Burhave	04733
+Gillenfeld	06573
+Haundorf	09837
+Oehringen	07941
+Angelbachtal	07265
+Blankenheim-Ahrhuette	02697
+Winklarn	09676
+Fichtelberg	09272
+Lohsa	035724
+Lohr a.Main	09352
+Kraichtal	07250
+Kandern	07626
+Duingen	05185
+Roehrnbach	08582
+Schellerten	05123
+Schramberg	07422
+Bisingen	07476
+Eibenstock	037752
+Koenigslutter a.Elm	05353
+Kranichfeld	036450
+Meersburg	07532
+Schoensee	09674
+Friemar	036258
+Fridolfing	08684
+Eichstaett Bay.	08421
+Moosinning	08123
+Arnsgereuth	036736
+Blankenhain (Thuer.)	036459
+Schleiden-Dreiborn	02485
+Freyenstein	033967
+Karlstadt-Wiesenfeld	09359
+Neuhausen (Erzgeb.)	037361
+Nordwalde	02573
+Dorsten-Rhade	02866
+Schopfheim	07622
+Berching	08462
+Polle	05535
+Oberau Loisach	08824
+Rheinberg	02843
+Angern	039363
+Pressig	09265
+Arnsberg	02931
+Cornberg	05650
+Toenning	04861
+Babenhausen Schwab.	08333
+Neuhaus a.Inn	08503
+Dambeck	039922
+Werneuchen	033398
+Kleinneuhausen	036372
+Hohenzieritz	039824
+Velbert-Neviges	02053
+Freiamt	07645
+Eschede	05142
+Grevenbroich-Kapellen	02182
+Sassnitz	038392
+Winsen Aller	05143
+Wolfsburg-Fallersleben	05362
+Beetzendorf	039000
+Malliss	038750
+Hosenfeld	06650
+Zernitz	033973
+Grasberg	04208
+Berau	07747
+Oschersleben	03949
+Cadenberge	04777
+Freinsheim	06353
+Teuschnitz	09268
+Graefenhainichen	034953
+Regnitzlosau	09294
+Bestwig	02904
+Abtsgmuend	07366
+Wiggensbach	08370
+Pahlen	04803
+Schweitenkirchen	08444
+Ering	08573
+Bad Camberg	06434
+Baumgarten	038462
+Alzey	06731
+Kienberg Oberbay.	08628
+Bad Suelze	038229
+Wesel	0281
+Nauen	03321
+Zoeschen	034638
+Hoehenkirchen	08102
+Trulben	06335
+Bad Neuenahr-Ahrweiler	02641
+Boxberg Baden	07930
+Jettingen-Scheppach	08225
+Teltow	03328
+Dobritz	039248
+Roedermark	06074
+Grammentin	039952
+Mertingen	09006
+Muenster-Wolbeck	02506
+Zwochau	034207
+Meitingen	08271
+Ediger-Eller	02675
+Speyer	06232
+Gneisenaustadt Schildau	034221
+Neustadt a.Kulm	09648
+Neuenstein Hess.	06677
+Kirchtimke	04289
+Schafstaedt	034636
+Calden-Westuffeln	05677
+Weeze	02837
+Herrsching a.Ammersee	08152
+Feucht	09128
+Crossen (Elster)	036693
+Baiersdorf Mittelfr.	09133
+Brockel	04266
+Ottersberg	04205
+Medebach	02982
+Grossenlupnitz	036920
+Bad Lippspringe	05252
+Hattorf a.Harz	05584
+Twistetal	05695
+Bad Lauchstaedt	034635
+Lindern Oldb.	05957
+Westerau	04539
+Wechmar	036256
+Tegernau Baden	07629
+Erkheim	08336
+Aichstetten Kr.Ravensburg	07565
+Brensbach	06161
+Grafenau Niederbay.	08552
+Oberndorf Oste	04772
+Remda	036744
+Gechingen	07056
+Koenigstein Oberpf.	09665
+Buechel b.Cochem	02678
+Buehl-Sand	07226
+Heidelberg	06221
+Rasdorf	06651
+Bundenthal	06394
+Friesack	033235
+Burghammer	035727
+Twist-Schoeninghsdorf	05935
+Schrozberg	07935
+Wustrow	039828
+Ehingen Donau	07391
+Boossen	033605
+Siegbach	02778
+Hausach	07831
+Langenenslingen	07376
+Hofheim Unterfr.	09523
+Bollendorf	06526
+Selsingen	04284
+Bretten	07252
+Neustadt-Hagen	05034
+Dassel-Markoldendorf	05562
+Roetz	09976
+Hoerstel-Dreierwalde	05978
+Burgsinn	09356
+Stavenhagen	039954
+Werbig	033746
+Bietigheim-Bissingen	07142
+Vlotho	05733
+St.Peter-Ording	04863
+Nechlin	039740
+Altenau Harz	05328
+Urspringen b.Lohr	09396
+Edertal	05623
+Bad Frankenhausen	034671
+Weissenfels	03443
+Moehnesee	02924
+Bischofsheim a.d.Rhoen	09772
+Marl	02365
+Wensin	04559
+Marne	04851
+Trent	038309
+Wennigsen Deister	05103
+Seilershof	033085
+Weyhe b.Bremen	04203
+Langhagen	038456
+Betzenstein	09244
+Herzberg-Sieber	05585
+Kleinlangheim	09325
+Kissenbrueck	05337
+Attenweiler	07357
+Mallentin	038824
+Bad Segeberg	04551
+Celle-Scheuen	05086
+Altenkirchen Pfalz	06386
+Rheinboellen	06764
+Loxstedt-Donnern	04703
+Todenbuettel	04874
+Neusalza-Spremberg	035872
+Ahrensboek-Gnissau	04556
+Wildeck-Hoenebach	06678
+Grosshartmannsdorf	037329
+Kaltenkirchen Holst.	04191
+Hoerstel-Riesenbeck	05454
+Gladbeck Westf.	02043
+Aulendorf	07525
+Neustadt-Mandelsloh	05072
+Zeulenroda	036628
+Buedingen Hess.	06042
+Vohburg a.d.Donau	08457
+Grabowhoefe	039926
+Unseburg	039263
+Kleinich	06536
+Breitenbrunn Schwab.	08263
+Issum	02835
+Dorndorf (Rhoen)	036963
+Hagermarsch	04938
+Rossleben	034672
+Abberode	034779
+Schkoelen	036694
+Muenster	0251
+Offenburg	0781
+Lamstedt	04773
+Luechow Niedersachs	05841
+Greifenstein-Beilstein	02779
+Grossenwoerden	04775
+Schwendi	07353
+Niederstetten Wuertt.	07932
+Wittmund-Carolinensiel	04464
+Sulzbach a.d.Murr	07193
+Niedereschach	07728
+Hutthurm	08505
+Siedenburg	04272
+Zinnitz	035439
+Doerentrup	05265
+Buedlich	06509
+Petershausen	08137
+Wegeleben	039423
+Bad Salzdetfurth	05063
+Bad Friedrichshall	07136
+Zollchow	033870
+Neuburg a.d.Kammel	08283
+Melle-Buer	05427
+Martensdorf	038321
+Moormerland-Oldersum	04924
+Burg Dithm.	04825
+Pfalzgrafenweiler	07445
+Schoellnach	09903
+Kirschau	03592
+St.Goar	06741
+Schoefweg	09908
+Schenefeld Mittelholst.	04892
+Kolitzheim	09385
+Zuesedom	039747
+Tiengen Hochrhein	07741
+Caputh	033209
+Letzlingen	039088
+Plettenberg	02391
+Jaenschwalde	035607
+Legden	02566
+Hohenpeissenberg	08805
+St.Michaelisdonn	04853
+Marienheide	02264
+Waldbrunn Odenw.	06274
+Speicher	06562
+Kirchanschoering	08685
+Linden Hess.	06403
+Waltrop	02309
+Saarbruecken-Ensheim	06893
+Koeln-Porz	02203
+Rosenfeld	07428
+Eckernfoerde	04351
+Neunburg-Kemnath	09439
+Teisendorf	08666
+Straubing	09421
+Lage	05232
+Fuenfeichen	033654
+Winnweiler	06302
+Wald-Michelbach	06207
+Datteln	02363
+Suesel-Bujendorf	04529
+Hassleben	039884
+Simmershofen	09848
+Rastatt	07222
+Jesewitz	034241
+Betzendorf Kr.Lueneburg	04138
+Colditz	034381
+Spalt	09175
+Schulenberg i.Oberharz	05329
+Krumbach Schwab.	08282
+Guntersblum	06249
+Mandelbachtal-Ommersheim	06803
+Hollenstedt Nordheide	04165
+Grossengottern	036022
+Haimhausen Oberbay.	08133
+Euskirchen-Flamersheim	02255
+Blumenhagen	039752
+Kronach	09261
+Grossenwiehe	04604
+Nordkirchen	02596
+Bad Freienwalde	03344
+Schoental Jagst	07943
+Schoenau a.d.Brend	09775
+Pasewalk	03973
+Hagenow	03883
+Kippenheim	07825
+Henningen	039038
+Hoogstede	05944
+Karwesee	033922
+Weinheim Bergstr	06201
+Bad Berleburg-Schwarzenau	02755
+Milmersdorf	039886
+Tauscha	035240
+Weidenthal Pfalz	06329
+Aurich Ostfriesl	04941
+Gundelsheim Wuertt.	06269
+Schwalmtal Niederrhein	02163
+Zoeblitz	037363
+Chieming	08664
+Heroldsbach	09190
+Hachenburg	02662
+Roemhild	036948
+Grossefehn-Bagband	04946
+Medelby	04605
+Bawinkel	05963
+Radeburg	035208
+Rees-Mehr	02857
+Vorderweidenthal	06398
+Glaubitz	035265
+Muecheln (Geiseltal)	034632
+Brake Unterweser	04401
+Gelting Angeln	04643
+Werben	039393
+Guetersloh-Friedrichsdorf	05209
+Blender	04233
+Tettenweis	08534
+Weihmichl-Unterneuhausen	08708
+Gleichen-Bremke	05592
+Marktschellenberg	08650
+Aurich-Ogenbargen	04947
+Deggingen	07334
+St.Peter Schwarzw.	07660
+Katlenburg	05552
+Hahnstaetten	06430
+Sien	06788
+Leezen	04552
+Westendorf b.Kaufbeuren	08344
+Worbis	036074
+Greifenstein-Ulm	06478
+Schoenecken	06553
+Wermelskirchen	02196
+Blumberg	033394
+Hochheim a.Main	06146
+Halfing	08055
+Neusorg	09234
+Mellen	038781
+Boesel b.Friesoythe	04494
+Cuxhaven-Luedingworth	04724
+Lahntal	06420
+Haltern Westf.	02364
+Sadenbeck	033989
+Grosshabersdorf	09105
+Steutz	039244
+Rerik, Ostseebad	038296
+Reinhardshagen	05544
+Bad Berka	036458
+Porta Westfalica	05706
+Bad Langensalza	03603
+Gross Ossnig	035608
+Schwafoerden	04277
+Palling	08629
+Heidenheim a.d.Brenz	07321
+Hofgeismar	05671
+Sauerlach	08104
+Karlstadt	09353
+Leopoldshoehe	05208
+Schemmerhofen	07356
+Gloett	09075
+Harsefeld	04164
+Adelmannsfelden	07963
+Kirn Nahe	06752
+Lippetal-Lippborg	02527
+Zschopau	03725
+Missen-Wilhams	08320
+Landau a.d.Isar	09951
+Blaufelden	07953
+Ermsleben	034743
+Espelkamp-Gestringen	05743
+Dierdorf	02689
+Stephanskirchen Simssee	08036
+Holzminden-Neuhaus	05536
+Hodenhagen	05164
+Graevenwiesbach	06086
+Hoya	04251
+Eigeltingen	07774
+Paulinenaue	033237
+Schlieben	035361
+Sievershuetten	04194
+Egesheim	07429
+Goslar	05321
+Zittau	03583
+Hosskirch	07587
+Wetzlar	06441
+Bad Rappenau-Obergimpern	07268
+Wallenhorst	05407
+Schelklingen-Huetten	07384
+Vilshofen Niederbay.	08541
+Senden Westf.	02597
+Neuhof Kr.Fulda	06655
+Neuburg a.Inn	08507
+Weil Kr.Landsberg	08195
+List	04652
+Baiersbronn	07442
+Waldfischbach-Burgalben	06333
+Weissenberg	035876
+Hornbach Pfalz	06338
+Schwinkendorf	039953
+Gross Oesingen	05838
+Ottrau	06639
+Bendorf Rhein	02622
+Herzberg a.Harz	05521
+Bottrop	02041
+Pfullendorf	07552
+Lenggries-Fall	08045
+Nideggen-Embken	02425
+Gross-Gerau	06152
+Arnbruck	09945
+Altenmedingen	05807
+Werdau (Sachs.)	03761
+Traben-Trarbach	06541
+Bad Sooden-Allendorf	05652
+Oberaudorf	08033
+Sulz a.Neckar	07454
+Buergel	036692
+Biesenthal	03337
+Solingen	0212
+Waren	03991
+Westoverledingen	04955
+Bad Windsheim	09841
+Bad Nauheim	06032
+Leidenborn	06559
+Zeil a.Main	09524
+Beratzhausen	09493
+Wagenfeld	05444
+Papenburg	04961
+Hainichen	037207
+Nandlstadt	08756
+Waldburg Wuertt.	07529
+Itzehoe	04821
+Bredenfelde	03964
+Tauberbischofsheim	09341
+Altomuenster	08254
+Hammelburg	09732
+Grasleben	05357
+Bahro	033656
+Grossmehring	08407
+Brunau	039030
+Schwarz	039827
+Eichigt	037430
+Wehr Baden	07762
+Erkelenz-Loevenich	02435
+Loerrach	07621
+Ralingen	06585
+Bischofsheim a.Main	06144
+Zirchow	038376
+Fladungen	09778
+Theilenhofen	09834
+Hausen Niederbay.	09448
+Barver	05448
+Bullay	06542
+Utting a.Ammersee	08806
+Schneverdingen-Heber	05199
+Waldbreitbach	02638
+Hamm-Rhynern	02385
+Feldafing	08157
+Enzkloesterle	07085
+Waibstadt	07263
+Kempen	02152
+Ladbergen	05485
+Witzenhausen	05542
+Buseck	06408
+Gronau-Epe	02565
+Boehen	08338
+Brilon	02961
+Garding	04862
+Greifenstein-Nenderoth	06477
+Rimpar	09365
+Schoenhausen (Elbe)	039323
+Friedrichswalde	033367
+Freiburg i.Breisgau	0761
+Gensingen	06727
+Eggstaett	08056
+Grossrosseln	06809
+Minden Westf.	0571
+Doerverden	04234
+Albbruck	07753
+Kroppenstedt	039264
+Vreden	02564
+Neustadt a.d.Weinstrasse	06321
+Trier	0651
+Lenggries	08042
+Schoemberg b.Balingen	07427
+Oberaula	06628
+Zehlendorf	033053
+Schoenfeld	035248
+Bad Hoehenstadt	08506
+St.Julian	06387
+Meppen	05931
+Buchholz i.d.Nordheide	04181
+Arzberg Oberfr.	09233
+Stadtlauringen	09724
+Lich-Eberstadt	06004
+Nortorf b.Neumuenster	04392
+Muehlheim a.d.Donau	07463
+Glauburg	06041
+Zell a.Harmersbach	07835
+Kinsau	08869
+Wildbergerhuette	02297
+Hohenwart Paar	08443
+Bobitz	038424
+Wilnsdorf	02739
+Breddin	033972
+Altfraunhofen	08705
+Brueel	038483
+Duesseldorf	0211
+Hoeckendorf	035055
+Juechsen	036947
+Xanten	02801
+Grieben	033086
+Oberweis	06527
+Rieseby	04355
+Triberg i.Schwarzw.	07722
+Rosdorf	05509
+Derenburg	039453
+Salzmuende	034609
+Berga  (Elster)	036623
+Wittenburg	038852
+Gross Behnitz	033239
+Weiden i.d.Opf	0961
+Essenbach	08703
+Gross Garz	039398
+Pfarrweisach	09535
+Rheine-Mesum	05975
+Geisenfeld	08452
+Oertzenhof	03967
+Hohenaspe	04893
+Forbach	07228
+Wernshausen	036848
+Henstedt-Ulzburg	04193
+Stoedtlen	07964
+Detern	04957
+Wolnzach	08442
+Runkel	06482
+Elsterwerda	03533
+Gross Ammensleben	039202
+Strehla	035264
+Lanz	038780
+Barnstorf Kr.Diepholz	05442
+Pfedelbach-Untersteinbach	07949
+Parsberg	09492
+Treia	04626
+Bad Bramstedt	04192
+Reitzenhain	037364
+Altendorf b.Nabburg	09675
+Narsdorf	034346
+Bad Duerrenberg	03462
+Bleicherode	036338
+Tarmstedt	04283
+Uhldingen-Muehlhofen	07556
+Jossgrund	06059
+Lauchheim	07363
+Herbrechtingen	07324
+Stadtlohn	02563
+Sangerhausen	03464
+Rotenburg Wuemme	04261
+Schoenau Odenw.	06228
+Kyritz	033971
+St.Blasien	07672
+Voehringen Iller	07306
+Ziltendorf	033653
+Insul	02695
+Kipsdorf,kurort	035052
+Horb-Muehringen	07483
+Oestrich-Winkel	06723
+Goslar-Hahnenklee	05325
+Gehrden Han	05108
+Schelklingen	07394
+Hauenstein Pfalz	06392
+Dudeldorf	06565
+Stockelsdorf-Krumbeck	04506
+Gummersbach	02261
+Burgebrach	09546
+Blankenfoerde	039829
+Gruenhainichen	037294
+Edenkoben	06323
+Varel-Altjuehrden	04456
+Fredenbeck	04149
+Altshausen	07584
+Bahrdorf-Mackendorf	05358
+Pritzerbe	033834
+Roemerstein	07382
+Neulehe	04968
+Dautphetal-Mornshausen	06468
+Bueren-Wewelsburg	02955
+Poseritz	038307
+Winterlingen	07434
+Strausberg	03341
+Buch b.Illertissen	07343

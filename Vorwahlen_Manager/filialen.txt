@@ -1,0 +1,414 @@
+35457,Lollar,Auweg 6,24677
+35510,Butzbach,Am Hetgesborn 2,573759
+35576,Wetzlar,Hercules-Center,212204
+35578,Wetzlar,Elsa-Brandstroem-Strasse,813137
+35781,Weilburg,Viehweg 12,594678
+36037,Fulda,Leipziger Strasse 126 a,492020
+36037,Fulda,Am Rosengarten 21,365492
+40721,Hilden,Gerresheimer Strasse 93,898304
+40721,Hilden,Mittelstrasse 69,826905
+40723,Hilden,Richrather Strasse 126,752466
+40878,Ratingen,Oberstrasse 52,193461
+41569,Rommerskirchen,Bahnstrasse 44 - 46,862157
+41844,Wegberg,Am Bahnhof 9,717213
+41849,Wassenberg,Weilerstrasse 61-65,524888
+42799,Leichlingen,Brueckenstrasse 63,320286
+46236,Bottrop,Horster Strasse 54,38087
+46244,Bottrop-Kirchhellen,Hauptstrasse 66,112704
+46395,Bocholt,Friesenstr. 19,379319
+46397,Bocholt,Muensterstrasse 7,167297
+46419,Isselburg,Werther Str. 13,185445
+46446,Emmerich,Bahnhofstrasse 12,988685
+46459,Rees,Vor dem Delltor 13,458645
+46483,Wesel,Reeser Landstr. 87,139732
+46485,Wesel,Schermbecker Landstr. 11,28015
+46509,Xanten,Sonsbecker Str. 21,32157
+46514,Schermbeck,Erler Strasse 13-15,392431
+46535,Dinslaken,Hans-Boeckler-Strasse 19,542589
+46537,Dinslaken,Augustastrasse 199,581179
+47198,Duisburg-Homberg,Moerser Strasse 2a,611038
+47226,Duisburg-Rheinhausen,Friedrich-AlfreStrasse 66,616313
+47229,Duisburg-Rheinhausen,Kruppstr. 51,185772
+47441,Moers,Uerdinger Strasse 67,670875
+47441,Moers,Baustrasse 27,463621
+47475,Kamp-Lintfort,Oststr. 5a,367280
+47495,Rheinberg,Xantener Str. 77,79150
+47506,Neukirchen-Vluyn,Ernst-Moritz-Arndt-Str. 47,616819
+47547,Kalkar,Xantener Str. 15,788314
+47574,Goch,Gartenstr. 4,807148
+47589,Uedem,Weezer Strasse 25,531087
+47608,Geldern,Harttor 51,318290
+47623,Kevelaer,Neustr. 3,878785
+47638,Straelen,De Cabanes Strasse 4,733007
+47647,Kerken,Industriestrasse 5a,956829
+47669,Wachtendonk,Auf dem Bock 24,927358
+47877,Willich,Bahnstrasse 93,550099
+47906,Kempen,Engerstrasse 42,162439
+50169,Kerpen-Horrem,Hauptstrasse 61-67,474647
+50226,Frechen,Duerener Strasse 52,253238
+50259,Pulheim,Steinstrasse 13-15,865375
+51377,Leverkusen,Syltstrasse 12,228117
+51379,Leverkusen-Opladen,Bonner Strasse 2 c,784738
+51465,Bergisch Gladbach,Kuertener Strasse 1,847228
+51469,Bergisch Gladbach,Kradepohlsmuehlenweg 8,996761
+51491,Overath,Wiesenauel 1,999592
+51491,Overath,Olper Strasse 119,620544
+51674,Wiehl,Weiherplatz 24,406645
+51766,Engelskirchen,Maerkische Strasse 22,283395
+51789,Lindlar,Koelner Strasse 21,313731
+52074,Aachen,Weststrasse 28,843801
+52134,Herzogenrath-Kohlscheid,Suedstrasse 2,46639
+52152,Simmerath,Matthias-Zimmermann-Str. 11,390464
+52372,Kreuzau,Feldstrasse 18,113896
+52385,Nideggen,Thumer Linde 2,684702
+52441,Linnich,Im Gansbruch 2,78346
+53111,Bonn,Koelnstrasse 102,32038
+53119,Bonn,Bornheimer Strasse 133,920594
+53175,Bonn,Im Bendel 3,292841
+53359,Rheinbach,An der alten Molkerei 2,289921
+53518,Adenau,Auf dem Broel,597509
+53604,Bad Honnef,Berck-sur-Mer-Strasse 16,698350
+53721,Siegburg,Luisenstrasse 97,841327
+53721,Siegburg,Kaiserstrasse 21 - 27,732828
+53783,Eitorf,Asbacher Strasse 46 - 52,496967
+53797,Lohmar,Frouardplatz,223975
+53819,Neunkirchen-Seelscheid,Fliederhain 2,749665
+53879,Euskirchen,Mainstrasse 3,480875
+53879,Euskirchen,Stresemannstrasse 3,470624
+53919,Weilerswist,Robert-Bosch-Strasse 2,950244
+53925,Kall,Siemensring 8,750350
+53945,Blankenheim,Am Gericht 10,129183
+54290,Trier,Nagelstrasse 25-27,608386
+54292,Trier,Zurmaiener Strasse 174 a,399612
+54292,Trier,Paulinstrasse 90-92,741142
+54293,Trier,Ehranger Strasse 98,618071
+54294,Trier,Hornstrasse 20,582371
+54338,Schweich,In den Schlimmfuhren 3,376279
+54411,Hermeskeil,Am Doerrenbach 6,171439
+54439,Saarburg,Am Saarufer,243255
+54470,Bernkastel-Kues,Friedrichstrasse 8-9,438590
+54516,Wittlich,Gottlieb-Daimler-Strasse 10,807416
+54550,Daun,Mehrener Strasse 31-35,528375
+54568,Gerolstein,Sarresdorfer Strasse 65,990115
+54634,Bitburg,Trierer Strasse 42,757293
+54634,Bitburg,Suedring 8a,360873
+54662,Speicher,Kapellenstrasse 54,188454
+55232,Alzey,Industriestrasse 22,665273
+55252,Mainz-Kastel,Anna-Birle-Strasse 7a,503761
+55268,Nieder-Olm,Reichelsheimer Strasse 6,85498
+55276,Oppenheim,Am Gutleuthaus 6,706724
+55435,Gau-Algesheim,Rheinstrasse 56,516366
+55457,Gensingen,Am Kieselberg 6a,167476
+55543,Bad Kreuznach,Schwabenheimer Weg o. Nr.,950661
+55543,Bad Kreuznach,Alzeyer Str.131-133,161695
+55545,Bad Kreuznach,Ruedesheimer Strasse 86-88,907243
+55590,Meisenheim,In den Tiefenaeckern 2,700019
+55743,Idar-Oberstein,Vollmersbachstrasse 71,319363
+56068,Koblenz,Bahnhofstrasse 50,439960
+56070,Koblenz,Ernst-Abbe-Strasse 19,92173
+56073,Koblenz,Moselweisser Strasse 115,967289
+56112,Lahnstein,Koblenzer Strasse 38a,690543
+56112,Lahnstein,Adolfstrasse 43,173078
+56130,Bad Ems,Nieverner Strasse 13,880037
+56235,Ransbach-Baumbach,Haselstr. 26,825772
+56269,Dierdorf,Koenigsberger Strasse,591788
+56281,Emmelshausen,Rhein-Mosel-Strasse 97,210297
+56288,Kastellaun,Zeller Strasse 33,197156
+56321,Rhens,Am Bornpfad 17 a,821392
+56477,Rennerod,Gewerbestr. 6 - 8,487520
+56564,Neuwied,Langendorfer Strasse 103,175343
+56566,Neuwied,Allensteiner Strasse 13,515502
+56567,Neuwied,Aubachstr. 77,738222
+56626,Andernach,Koblenzer Strasse 62,419488
+56727,Mayen,Hausener Strasse,296447
+56727,Mayen,Polcher Strasse 81,578795
+56743,Mendig,Bahnstrasse 57,689619
+56759,Kaisersesch,Alte Mayener Strasse,761495
+56812,Cochem,Endertstrasse 18,728358
+56841,Traben-Trarbach,Neue Strasse 1,487550
+57518,Betzdorf,Wilhelmstrasse 62,143577
+57537,Wissen,Chagneyer Strasse,382597
+57562,Herdorf,Alte Huette 16,838467
+57610,Altenkirchen,Koelner Strasse 30a,57725
+57627,Hachenburg,Saynstrasse 40,528286
+61118,Bad Vilbel,Homburger Strasse 74,670816
+61231,Bad Nauheim,Am Taubenbaum 15,439633
+61250,Usingen,Am Riedborn 43,125667
+63150,Heusenstamm,W.-v.-Siemens-Strasse 15-19,950423
+63263,Neu-Isenburg,Rathenaustrasse 11-13,923126
+63452,Hanau,Breslauer Strasse 2,560052
+63500,Seligenstadt,Steinheimer Strasse 66,361290
+63505,Langenselbold,Kinzigstrasse 13 a,484063
+63667,Nidda,Am Rauner Graben 6,389600
+63688,Gedern,Am Alten Bahnhof 10,850476
+63741,Aschaffenburg,Muehlstrasse 102,332862
+63741,Aschaffenburg,Lange Strasse 24,468806
+63743,Aschaffenburg,Wuerzburger Strasse 180,288938
+63773,Goldbach,Erlengrund 3,983261
+63897,Miltenberg,Bischoffstrasse 60,314237
+64319,Pfungstadt,Gottlieb-Daimler-Strasse 9,745225
+64331,Weiterstadt,Rudolf-Diesel-Strasse 26,577365
+64372,Ober-Ramstadt,Graefenbergweg 2,214827
+64579,Gernsheim,Bensheimer Strasse 2,766829
+64625,Bensheim,Wormser Strasse 16,843115
+64720,Michelstadt,Marktstr. 27,411741
+64807,Dieburg,Lagerstrasse 3,512552
+65232,Taunusstein,GottfrieKeller-Str. 15,892642
+65307,Bad Schwalbach,Bahnhofstrasse 8-10,50275
+65451,Kelsterbach,Langer Kornweg 10,994645
+65510,Idstein,RicharKlinger-Str. 2,582550
+65520,Bad Camberg,Limburger Strasse 61,72773
+65582,Diez,Industriestrasse 10,542261
+65589,Hadamar,Mainzer Landstrasse 15,212949
+65719,Hofheim-Wallau,Hessenstrasse 14a,846632
+66265,Heusweiler,Trierer Strasse 155,635444
+66271,Kleinblittersdorf,Elsaesser Strasse 70,665571
+66359,Bous,Kantstrasse 8,216644
+66450,Bexbach,Kleinottweilerstrasse 75,845767
+66564,Ottweiler,Brunnenweg 8,143875
+66571,Eppelborn,Am Markt 34,130793
+66629,Freisen,Bahnhofstrasse 47,749069
+66663,Merzig,Rieffstrasse 9,330120
+66687,Wadern,Poststrasse 40,942347
+66693,Mettlach,Britter Strasse 20e,302794
+66706,Perl,Bahnhofstrasse 66-72,351844
+66740,Saarlouis,Bahnhofsallee,160413
+66780,Rehlingen-Siersburg,In Duerrfeldslach 1,739265
+66793,Saarwellingen,Werner-von-Siemens Strasse 5,838407
+66798,Wallerfangen,Hauptstrasse 1,714770
+66822,Lebach,Auf dem Graben 1,609548
+66849,Landstuhl,Bahnstrasse 44-48,753062
+66869,Kusel,Industriestrasse 33,270224
+66953,Pirmasens,Zweibruecker Strasse 143,164525
+66954,Pirmasens,Waisenhausstrasse 49,25035
+67105,Schifferstadt,Waldspitzweg 4,83024
+67112,Mutterstadt,An der Fohlenweide 10,810694
+67292,Kirchheimbolanden,Woogmorgen 14,855989
+67304,Eisenberg,KonraAdenauer-Strasse 1,229071
+67346,Speyer,Dudenhofer Strasse 44,136335
+67346,Speyer,Tullastrasse 53,563628
+67480,Edenkoben,Bahnhofstrasse 167,37372
+67547,Worms,Am Wolfsgraben 60,134547
+67547,Worms,Am Aulweg 1,467257
+67547,Worms,Petrus-Dorn-Str. 30,757949
+67574,Osthofen,Wonnegaustr. 5,693433
+67655,Kaiserslautern,Barbarossastrasse 56,554092
+67655,Kaiserslautern,Eisenbahnstrasse 31 a,95600
+67657,Kaiserslautern,Mainzer Strasse 21,449884
+67663,Kaiserslautern,Koenigstr. 115,220638
+67663,Kaiserslautern,Merkurstrasse 49,703267
+67677,Enkenbach-Alsenborn,Rosenhofstrasse 67,306966
+67714,Waldfischbach-Burgalben,In der Schorbach 11,449854
+67742,Lauterecken,Saarbruecker Strasse 1e,250407
+67806,Rockenhausen,An der Linde 14,587705
+68159,Mannheim,F 2 5-10,543483
+68169,Mannheim,Konzstrasse 25,637321
+68519,Viernheim,Heidelberger Str. 61,179872
+68623,Lampertheim,Otto-Hahn-Strasse 10,515710
+68723,Schwetzingen,Schubertstrasse 17,963803
+68766,Hockenheim,Lussheimer Strasse 13-21,702820
+69168,Wiesloch,Eichelweg 9,926464
+70176,Stuttgart,Kornbergstrasse 11/11a,208926
+70178,Stuttgart,Marienstrasse 11-13,351486
+70372,Stuttgart,Deckerstrasse 75,197603
+71083,Herrenberg,Kalkofenstrasse,995181
+71254,Ditzingen,Zeiss-Strasse 2,470117
+71272,Renningen,Benzstrasse 11,997953
+71332,Waiblingen,Duesseldorfer Strasse 3,118664
+71364,Winnenden,Marbacher Strasse 8,633894
+71522,Backnang,Eugen-Adolff-Strasse 129,115625
+71540,Murrhardt,Wilh.-Soehnle-Strasse 8,450867
+72202,Nagold,Haiterbacher Strasse Nr. 70,933020
+72336,Balingen,Lange Strasse 52,70747
+72379,Hechingen,Eitel-Fritz-Str. 7,896992
+72386,Burladingen,Fehlabruecke 4,306638
+72458,Albstadt-Ebingen,Schillerstrasse 27,245401
+72488,Sigmaringen,In den Burgwiesen 14,774398
+72574,Bad Urach,Neuffener Strasse 24,424495
+72654,Neckartenzlingen,Robert-Bosch-Strasse 2,220667
+72760,Reutlingen,Foehrstrasse 4,636725
+73431,Aalen,Kochertalstrasse 49,613363
+73431,Aalen,Carl-Zeiss-Strasse 21,464426
+73642,Welzheim,Hundsberger Str. 11,478819
+74172,Neckarsulm,Am Wildacker 20,607194
+74177,Bad Friedrichshall,Bergrat-Bilfinger-Strasse 9,643222
+74336,Brackenheim,Maulbronner Strasse 24,858104
+74405,Gaildorf,Seestrasse 53,832715
+74564,Crailsheim,Schoenebuergstrasse 11,633507
+74740,Adelsheim,Untere Austrasse 38,727375
+74889,Sinsheim,Breite Seite 4,575875
+74906,Bad Rappenau,Raiffeisenstrasse 20,389749
+74909,Meckesheim,Bruehlweg 11,203384
+75015,Bretten,Wilhelmstrasse 43,743973
+75031,Eppingen,Frauenbrunner Strasse 11,565505
+75179,Pforzheim,Mannheimer Strasse 3,907214
+75181,Pforzheim,Hanauer Strasse 10,260598
+75365,Calw,Gottlob-Bauknecht-Strasse 20,207943
+76275,Ettlingen,Einsteinstrasse 39-41,613929
+76351,Linkenheim-Hochstetten,Durlacher Weg 2,705502
+76437,Rastatt,Biblisweg 2,594291
+76437,Rastatt,Luetzower Strasse 11,366475
+76448,Durmersheim,Auf den Heilberg 13,506264
+76532,Baden-Baden,Schwarzwaldstrasse 42,101947
+76571,Gaggenau,Rindeschwenderstrasse 40,746744
+76593,Gernsbach,Schwarzwaldstrasse 20,621081
+76646,Bruchsal,Stegwiesenstrasse 2a,629216
+76646,Bruchsal,Karl-Benz-Weg 3,698291
+76726,Germersheim,Friedrich-Ebert-Strasse 2,809025
+76870,Kandel,Lauterburger Strasse 13,169055
+77652,Offenburg,Freiburgerstr. 15,585917
+77656,Offenburg,Marlener Strasse 3a,870739
+77694,Kehl,Allensteiner Strasse 21,913531
+77855,Achern,Von-Drais-Strasse 75,623673
+77955,Ettenheim,Tullastrasse 4,733990
+78120,Furtwangen,Joseph-Koepfer-Strasse 6,65651
+78166,Donaueschingen,Duerrheimer Strasse 38,675494
+78333,Stockach,Weissmuehlenstrasse 15,976974
+78462,Konstanz,Bodanstrasse 19,331044
+78467,Konstanz,Oberlohnstrasse 7,579242
+78532,Tuttlingen,Bahnhofstrasse 71/75,322074
+78532,Tuttlingen,Carl-Zeiss-Strasse 3,193282
+78549,Spaichingen,Obere Wiesen 9,129452
+78628,Rottweil,Saline 21,872021
+78647,Trossingen,In Grubaecker 3,854618
+78713,Schramberg,Bahnhofstrasse 31,750231
+78727,Oberndorf,Hauptstrasse 10,174687
+79312,Emmendingen,Karl-Friedrich-Strasse 95,342666
+79341,Kenzingen,Industriestrasse 26,100934
+79650,Schopfheim,Scheffelstrasse 8,98252
+79798,Jestetten,Schaffhauser Strasse 29,649330
+82140,Olching,Joh.-Gutenberg-Strasse 31,824133
+82377,Penzberg,Ludwig-Maerz-Strasse 2,555701
+82515,Wolfratshausen,Koenigsdorfer Strasse 33,461148
+83064,Raubling,Friedrich-Fuckel-Strasse 20,422796
+83093,Bad Endorf,Im Gewerbegebiet 18,315161
+83233,Bernau,Hochfellnstrasse 45,478044
+83301,Traunreut,Traunring 3,512850
+83308,Trostberg,Altoettinger Strasse 19,172512
+83324,Ruhpolding,Seehauser Strasse 39 a,338881
+83395,Freilassing,Saegewerkstrasse 1,744062
+83435,Bad Reichenhall,Alte Saline 1,329941
+83471,Berchtesgaden,Gartenau 2,830659
+83714,Miesbach,Breitensteinstrasse 2,959929
+84030,Landshut,Alte Regensburger Strasse 59,876222
+84048,Mainburg,Koeglmuehle 1,731398
+84130,Dingolfing,Gewerbehof 1,316442
+84137,Vilsbiburg,Frontenhausener Strasse 104,945208
+84307,Eggenfelden,Lauterbachstrasse 49,147689
+84478,Waldkraiburg,Bahnhofstrasse 10,87643
+85077,Manching,Schaefflerstrasse 14,789924
+85221,Dachau,Fraunhoferstrasse 3,535676
+85229,Markt Indersdorf,Industriestrasse 30,618727
+85354,Freising,Angerbadergasse 3,957038
+85356,Freising,Rudolf-Diesel-Strasse 5,94020
+85435,Erding,Alte Roemer Strasse 11,878457
+85570,Markt Schwaben,Burgerfeld 10,661906
+86179,Augsburg,Unterer Talweg 111,337987
+86529,Schrobenhausen,Poettmeser Strasse 10,125786
+86551,Aichach,Schrobenhausener Strasse 32,516604
+86637,Wertingen,Donauwoerther Strasse 1b,245192
+86807,Buchloe,Rudolf-Diesel-Strasse 1,306907
+86956,Schongau,Bgm.-Lechenbauer-Strasse 4,921756
+87527,Sonthofen,oestliche Alpenstrasse 26,561631
+87600,Kaufbeuren,Neugablonzer Strasse 65,670637
+87600,Kaufbeuren,Innovapark 35,135292
+87616,Marktoberdorf,J.-G.-Fendt-Strasse 42,504387
+87700,Memmingen,Oberbruehlstrasse 2,393652
+87719,Mindelheim,Heimenegger Weg 10,508558
+88048,Friedrichshafen,Adelheidstr. 38,798118
+88069,Tettnang,Schaeferhofstrasse 1,520717
+88214,Ravensburg,Ziegelstrasse 20,396811
+88348,Saulgau,Schwarzenbacher Strasse 1,695400
+88416,Ochsenhausen,Am Gueterbahnhof 9,543066
+88453,Erolzheim,Zeppelinstrasse 5,615449
+88471,Laupheim,Ulmer Strasse 61,409327
+88630,Pfullendorf,Paul-Heilig-Strasse 10,29207
+88677,Markdorf,Rudolf-Diesel-Str. 1,714651
+89150,Laichingen,Feldstetter Strasse 51,121704
+89257,Illertissen,Saumweg 36,631838
+89343,Jettingen-Scheppach,Messerschmitt-Strasse 1,866359
+90537,Feucht,Gugelhammerweg 1,503373
+90542,Eckental,Orchideenstrasse 35,753181
+90559,Burgthann,Espenpark 11,508648
+90579,Langenzenn,Am Galgenberg 8,394606
+91052,Erlangen,Paul-Gossen-Strasse 75,790311
+91052,Erlangen,Henkestrasse 92,563240
+91056,Erlangen,Gundstrasse 2,372137
+91074,Herzogenaurach,Ohmstrasse 5,956651
+91126,Schwabach,Katzwanger Strasse 22,639437
+91161,Hilpoltstein,Siemensstrasse 2,195874
+91171,Greding,Kindinger Strasse 25 1/2,388884
+91217,Hersbruck,Ostbahnstrasse 136,151980
+91257,Pegnitz,Badstrasse 12,749218
+91320,Ebermannstadt,Oberes Tor 8,952747
+91325,Adelsdorf,Erlanger Strasse 9,621021
+91438,Bad Windsheim,Illesheimer Strasse 5,50632
+91443,Scheinfeld,Geiselwinder Strasse 1,345526
+91522,Ansbach,Rothenburger Strasse 9,78048
+91522,Ansbach,Feuerbachstrasse 24,647602
+91555,Feuchtwangen,Dinkelsbuehler Strasse 32,151980
+91710,Gunzenhausen,Breslauer Strasse 1,850565
+91757,Treuchtlingen,Industriestrasse 6,867402
+92237,Sulzbach-Rosenberg,Kroetenseestrasse 3,606270
+92331,Parsberg,Lindlbergstrasse 10,728090
+92421,Schwandorf,Max-Planck-Strasse 6,857300
+92681,Erbendorf,Tirschenreuther Strasse 18,37789
+93049,Regensburg,Rennweg 18,146944
+93053,Regensburg,Johann-Hoesl-Strasse 1,714680
+93059,Regensburg,Donaustaufer Strasse 118,626057
+93128,Regenstauf,Strassaecker 1,235895
+93133,Burglengenfeld,Regensburger Strasse 62,87852
+93309,Kelheim,Abensberger Strasse 2,188395
+93326,Abensberg,Straubinger Strasse 47,632851
+93413,Cham,Mittelweg 16,356403
+94036,Passau,Neuburger Strasse 137,335335
+94036,Passau,Graneckerstrasse 2,382358
+94051,Hauzenberg,Steinbergstrasse 4,668879
+94060,Pocking,Schaefflerring 1,806939
+94078,Freyung,Am Bahnhof 22,811319
+94104,Tittling,Dreiburgenstrasse 18,537583
+94209,Regen,Rinchnacher Strasse 9,620157
+94227,Zwiesel,Theresienthaler Strasse 39,802827
+94234,Viechtach,Flurstrasse 21,902833
+94249,Bodenmais,Koetztinger Strasse 37,164853
+94315,Straubing,Ittlinger Strasse 198,638781
+94315,Straubing,Landshuter Strasse 216,416389
+94447,Plattling,Leitenweg 72,271177
+94469,Deggendorf,Werftstrasse 32,156778
+94469,Deggendorf,Graflinger Strasse 145,858492
+94486,Osterhofen,Plattlinger Strasse 57,88060
+95100,Selb,Weissenbacher Strasse 65,441182
+95111,Rehau,Gerberstrasse 6,583295
+95119,Naila,Kronacher Strasse 38,318618
+95326,Kulmbach,A.-Ruckdeschel-Strasse 23,558592
+95447,Bayreuth,Karl-von-Linde-Strasse 15,243702
+95448,Bayreuth,Theodor-Schmidt-Strasse 12,327468
+95460,Bad Berneck,Maintalstrasse 161,131478
+95615,Marktredwitz,Woelsauer Strasse 35,812452
+95632,Wunsiedel,Turnerheimweg 2,154990
+95643,Tirschenreuth,aeussere Regensburger Str. 81,301006
+95652,Waldsassen,Neualbenreuther Strasse 1,792993
+96052,Bamberg,Memmelsdorfer Strasse 145,897588
+96052,Bamberg,Muenchner Ring 11,794483
+96106,Ebern,Alte Ziegelei 2,749724
+96142,Hollfeld,Suedstrasse 4,624180
+96224,Burgkunstadt,Auwiese 6,376071
+96242,Sonnefeld,Allee 1,859922
+96317,Kronach,Industriestrasse 24,246563
+96332,Pressig,Kronacher Strasse 26,866687
+96337,Ludwigsstadt,Lauensteiner Strasse 80,247487
+96450,Coburg,Fabrikweg 11,267124
+96450,Coburg,Mohrenstrasse 12 und 12 A,553079
+97199,Ochsenfurt,Pestalozzistrasse 2,985079
+97215,Uffenheim,Nuernberger Strasse 3,75992
+97318,Kitzingen,Marktbreiter Strasse 7,102960
+97440,Werneck,Wuerzburger Strasse 4,535765
+97447,Gerolzhofen,Spielsee 1,440199
+97638,Mellrichstadt,Thueringer Strasse 29,115893
+97688,Bad Kissingen,Spitzwiese 5,276154
+97753,Karlstadt,Wuerzburger Strasse 1 a,893983
+97762,Hammelburg,Ziegelhuette 1,250735
+97833,Frammersbach,Gewerbestrasse 18,166552
+97877,Wertheim,Willy-Brandt-Strasse 23,145603
+97941,Tauberbischofsheim,Zur Altenau 6,933139
+97980,Bad Mergentheim,Max-Eyth-Strasse 14/1,101679
